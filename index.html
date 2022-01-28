@@ -59,4 +59,54 @@ layout: home
     We develop free software tools to simplify the process of training and
     exploring machine learning models.
   </p>
+  <div class="side-by-side">
+    <a class="figure-link" href="/tools/figment">
+      <figure>
+        <img
+          src="/static/media/figment/figment-screenshot.png"
+          alt="Screenshot of the Figment application"
+        />
+        <figcaption>
+          <p class="title">Figment</p>
+          <p class="subtitle">
+            Real-time image manipulation for machine learning
+          </p>
+        </figcaption>
+      </figure>
+    </a>
+    <a class="figure-link" href="/tools/gandelve">
+      <figure>
+        <img
+          src="/static/media/gandelve/gandelve-screenshot.png"
+          alt="Screenshot of the GANDelve application"
+        />
+        <figcaption>
+          <p class="title">GANDelve</p>
+          <p class="subtitle">Deep exploration of tailor-made GANs</p>
+        </figcaption>
+      </figure>
+    </a>
+  </div>
+</section>
+
+<section class="projects">
+  <h1>Projects</h1>
+  <p>We help artists use our tools and methods to create new AI-based work.</p>
+  <div class="figure-grid">
+    {% for project in collections.project %}
+    <a class="figure-link" href="{{ project.url }}">
+      <figure>
+        <img
+          class="project-thumb"
+          src="{{ project.data.thumb_image }}"
+          alt="{{ project.data.title }}"
+        />
+        <figcaption>
+          <p class="title">{{ project.data.title }}</p>
+          <p class="subtitle">{{ project.data.subtitle }}</p>
+        </figcaption>
+      </figure>
+    </a>
+    {% endfor %}
+  </div>
 </section>

@@ -20,6 +20,18 @@ Central to this process are algorithms: code written by programmers that determi
 
 The goal of this research is to make **artistic creation via artificial intelligence available to artists and designers**. For this, we first want to **gain insight** into the artificial looking of the machine and the artistic potential of current tools. Then we will develop **new user-friendly software** to link to existing creative processes. We **share the available knowledge** through lectures, workshops, freely available (open source) software and online documentation.
 
+## Gaining Insights
+
+We want to understand the artificial thought process: how does a computer look at reality, how can we use that looking to implement procedures that allow experimentation with those techniques within the realm of the arts.
+
+Current techniques require a deep knowledge of statistical techniques, programming techniques, and the installation of complex software on powerful machines. We explore which of those complexities are inherent in the problem, and which are accidental and can be solved with better and user-friendly tools and documentation. A number of options exist today for setting up experiments around artificial intelligence: [Pytorch](https://pytorch.org/), [Keras](https://keras.io/) and [Tensorflow](https://www.tensorflow.org/). Tensorflow also already got an implementation for JavaScript ([Tensorflow.js](https://www.tensorflow.org/js/)). [ml5.js](https://ml5js.org/), developed by the [ITP](https://tisch.nyu.edu/itp) in New York, is the first machine learning tool aimed at users with limited technical baggage: artists, students and creative coders. We want to explore these existing possibilities further and see where we can make adjustments for usability as well as where new links and extensions are possible.
+
+## Developing Tools
+
+In collaboration with students, artists and designers, we develop tools where usability is paramount. Instead of endless numbers and graphs, we teach a visual intuition around machine learning through interactive visualizations. In doing so, we draw on our experience developing NodeBox, an application developed to make data visualization and generative design available to the same target group.
+
+Within the research we want to visualize and highlight the discourse around AI in the arts. To this end, we want to organize a low-threshold quarterly series of lectures and demonstrations around the domain. We will use an informal context that allows for interaction between the public and the lecturer/artist. In this way we want to inscribe the research and the institution in an existing international discourse and the praxis around artificial intelligence and machine learning in the context of creative processes. The series will look beyond borders, we see it as an ideal way to also cover experiments within other types of media (audio, games). We see a number of possible partners in e.g. VUB, Aalto University, RCA and ITP. With a number of institutes we have already built up a strong relationship over the years and through previous research.
+
 # People
 
 The Algorithmic Gaze was initiated by:
