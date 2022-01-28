@@ -28,7 +28,7 @@ The Algorithmic Gaze was initiated by:
 
 <img src="/static/media/people/frederik-de-bleser.jpg" alt="Head shot of Frederik De Bleser" class="pull-right">
 
-Frederik De Bleser (º1978) is a doctoral researcher and lecturer at Sint Lucas Antwerp. His research focuses on the connection between art and technology and the development of free software tools for generative design and data visualization. He is co-founder of the Experimental Media Research Group (EMRG). He coordinates the master in digital media at Sint Lucas, and works as a freelance data visualisation artist, creating projects for Belgian news and online democracy platforms.
+Dr. Frederik De Bleser (º1978) is a doctoral researcher and lecturer at Sint Lucas Antwerp. His research focuses on the connection between art and technology and the development of free software tools for generative design and data visualization. He is co-founder of the Experimental Media Research Group (EMRG). He coordinates the master in digital media at Sint Lucas, and works as a freelance data visualisation artist, creating projects for Belgian news and online democracy platforms.
 
 [enigmeta.com](https://www.enigmeta.com/)
 

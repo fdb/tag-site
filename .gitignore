@@ -1,3 +1,6 @@
+# Site folder
+_site
+
 # Logs
 logs
 *.log
