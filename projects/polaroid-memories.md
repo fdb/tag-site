@@ -6,6 +6,8 @@ subtitle: Re-discovering found footage through GANDelve
 credits: Iren Loontjens
 thumb_image: /static/media/polaroid-memories/polaroid-memories-thumb.jpg
 main_image: /static/media/polaroid-memories/polaroid-memories.jpg
+images:
+  - /static/media/polaroid-memories/polaroid-memories.jpg
 ---
 
 **Polaroid Memories** was based on found footage of incorrectly developed Polaroid images. The amount of images was quite low; we were able to augment the footage using our augmentation tools (flip horizontal/vertical, random contrast and brightness differences).
