@@ -1,0 +1,24 @@
+{
+  "name": "tag-site",
+  "version": "1.0.0",
+  "description": "Website for The Algorithmic Gaze",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdb/tag-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdb/tag-site/issues"
+  },
+  "homepage": "https://github.com/fdb/tag-site#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
