@@ -50,6 +50,9 @@ body {
   padding: 15px 20px;
   background-color: white;
   color: #333;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  z-index: 10;
+  position: relative;
 }
 
 .site-header .site-logo {
@@ -70,11 +73,7 @@ body {
 /**** JUMBO HEADER ****/
 
 .jumbo {
-  background: radial-gradient(
-    circle at top left,
-    rgb(92, 21, 64) 0%,
-    rgba(99, 63, 85, 0) 50%
-  );
+  background: radial-gradient(circle at top left, rgb(92, 21, 64) 0%, rgba(99, 63, 85, 0) 50%);
   min-height: 80vh;
   color: white;
 }
@@ -201,7 +200,6 @@ figcaption .subtitle {
 /**** PROJECT *****/
 
 .project-header {
-  min-height: 80vh;
   background-color: #411730;
 }
 
@@ -214,7 +212,10 @@ figcaption .subtitle {
 }
 
 .project-main-image {
-  padding: 0 0 50px 0;
+  padding: 0 0 0px 0;
+  height: 800px;
+  object-fit: cover;
+  width: 100%;
 }
 
 .project-title {
@@ -226,6 +227,14 @@ figcaption .subtitle {
 .project-credits {
   font-size: 1.2rem;
   margin: 0 0 20px 0;
+}
+
+.masonry-grid {
+  padding: 30px 10px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-rows: masonry;
+  gap: 10px;
 }
 
 /**** FOOTER ****/
