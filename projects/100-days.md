@@ -1,6 +1,6 @@
 ---
 layout: project
-tags: project
+tags: ["project", "gandelve"]
 title: 100 Days
 subtitle: Destroying and reconstructing memories
 credits: Joud Toamah

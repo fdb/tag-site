@@ -1,6 +1,6 @@
 ---
 layout: project
-tags: project
+tags: ["project", "figment"]
 title: Cyber Sensuality
 subtitle: Training an AI Dancer through PIX2PIX
 credits: ????

@@ -51,33 +51,21 @@ layout: page
 </p>
 
 <h1>Projects</h1>
-
 <p>The following projects were done using GANDelve:</p>
-
 <div class="figure-grid">
-  <a href="/projects/100-days" class="figure-link">
+  {% for project in collections.gandelve %}
+  <a class="figure-link" href="{{ project.url }}">
     <figure>
       <img
-        src="/static/media/100-days/100-days-1.jpg"
-        alt="100 days project by Joud Toamah"
+        class="project-thumb"
+        src="{{ project.data.thumb_image }}"
+        alt="{{ project.data.title }}"
       />
       <figcaption>
-        <p class="title">100 Days</p>
-        <p class="subtitle">Joud Toamah</p>
+        <p class="title">{{ project.data.title }}</p>
+        <p class="subtitle">{{ project.data.subtitle }}</p>
       </figcaption>
     </figure>
   </a>
-
-  <a href="/projects/polaroid-memories" class="figure-link">
-    <figure>
-      <img
-        src="/static/media/polaroid-memories/polaroid-memories.jpg"
-        alt="Polaroid Memories project by Iren Loontjens"
-      />
-      <figcaption>
-        <p class="title">Polaroid Memories</p>
-        <p class="subtitle">Iren Loontjens</p>
-      </figcaption>
-    </figure>
-  </a>
+  {% endfor %}
 </div>
