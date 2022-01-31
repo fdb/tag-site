@@ -13,6 +13,7 @@ p {
   margin: 0;
   padding: 0;
   font-weight: normal;
+  line-height: 1.5;
 }
 
 img {
@@ -73,7 +74,11 @@ body {
 /**** JUMBO HEADER ****/
 
 .jumbo {
-  background: radial-gradient(circle at top left, rgb(92, 21, 64) 0%, rgba(99, 63, 85, 0) 50%);
+  background: radial-gradient(
+    circle at top left,
+    rgb(92, 21, 64) 0%,
+    rgba(99, 63, 85, 0) 50%
+  );
   min-height: 80vh;
   color: white;
 }
@@ -235,22 +240,33 @@ figcaption .subtitle {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-template-rows: masonry;
   gap: 10px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.project-other {
+  margin-top: 100px;
+  padding-top: 40px;
+  background-color: #411730;
 }
 
 /**** FOOTER ****/
 
 footer {
+  clear: both;
   display: flex;
   flex-direction: column;
   padding: 25px 20px;
   gap: 20px;
   font-size: 0.8rem;
   align-items: flex-start;
+  background-color: #350f26;
 }
 
 @media (min-width: 550px) {
   footer {
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
   }
 }
