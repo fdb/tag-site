@@ -6,6 +6,8 @@ subtitle: Destroying and reconstructing memories
 credits: Joud Toamah
 thumb_image: /static/media/100-days/100-days-thumb.jpg
 main_image: /static/media/100-days/100-days-1.jpg
+images:
+  - /static/media/100-days/100-days-1.jpg
 ---
 
 Joud Toamah is a Syrian designer based in Belgium. Her visual research on the acts of remembrance and forgetfulness emerging from repetitive interactions resulted in drawing an image from memory every day, for a period of 100 days.

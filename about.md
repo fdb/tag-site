@@ -49,3 +49,5 @@ Dr. Frederik De Bleser (º1978) is a doctoral researcher and lecturer at Sint Lu
 <img src="/static/media/people/lieven-menschaert.jpg" alt="Head shot of Lieven Menschaert" class="pull-right">
 
 Lieven Menschaert (º1975) ipsum dolor sit amet consectetur, adipisicing elit. Dolorum illum magni voluptatum molestiae veniam molestias obcaecati porro error voluptas iusto assumenda pariatur ab inventore nobis, aliquam quas? Tenetur, quisquam saepe.
+
+<div class="spacer" style="padding-top: 100px"></div>
