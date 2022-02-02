@@ -18,3 +18,7 @@ This begs not only the question of power and understanding of ‘erotic’ movem
 During the performance we show and interact with the AI’s interpretation of the erotic, resulting in a flirtatious conversation with artificial intelligence.
 
 Presented at [ChampdAction LAbO 2021](https://www.champdactionlabo.be/) at deSingel, Antwerp
+
+<figure>
+<video loop autoplay muted src="https://tag-site.s3-eu-central-1.amazonaws.com/cyber-sensuality/2021-erotique-training.mp4" width="100%"></video>
+<figcaption>Watching the dancer gradually improving through training.</figcaption></figure>
