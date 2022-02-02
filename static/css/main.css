@@ -77,9 +77,9 @@ body {
   background: radial-gradient(
     circle at top left,
     rgb(92, 21, 64) 0%,
-    rgba(99, 63, 85, 0) 50%
+    rgba(99, 63, 85, 0) 30%
   );
-  min-height: 80vh;
+  min-height: 60vh;
   color: white;
 }
 
