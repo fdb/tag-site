@@ -45,4 +45,15 @@ Next to bodies we also trained the AI on faces:
 <video loop autoplay muted src="https://tag-site.s3-eu-central-1.amazonaws.com/cyber-sensuality/face-short.mp4" width="100%"></video>
 <figcaption>Faces being generated using a face mesh.</figcaption></figure>
 
-Cyber Sensuality was a project created and presented during the [ChampdAction LAbO 2021 summer school](https://www.champdactionlabo.be/) at deSingel, Antwerp
+## Credits
+
+Cyber Sensuality was a project created and presented during the [ChampdAction LAbO 2021 summer school](https://www.champdactionlabo.be/) at deSingel, Antwerp.
+
+### Performers:
+
+- [Nikola Scheibe](https://www.linkedin.com/in/nikola-scheibe-853915149/)
+- [Alexandra Fraser](https://www.instagram.com/alexandra_fraser_art/)
+- [Madina Mahomedova](https://www.instagram.com/bringulda/)
+- Mazarine Haarscheer
+- [David Bello Arcos](https://www.instagram.com/davidbello32/)
+- [Erik Berkey](https://theberkey.se/)
