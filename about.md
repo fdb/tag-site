@@ -10,6 +10,8 @@ In this research project we want to explore the creative applications of AI by g
 
 # The Domain of AI
 
+<figure class="pull-right"><img src="/static/media/about/harold-cohen-aaron.jpg" alt="Harold Cohen coloring the forms produced by the AARON drawing “Turtle” at the Computer Museum, Boston" ><figcaption>Harold Cohen coloring the forms produced by the AARON drawing “Turtle” at the Computer Museum, Boston, MA, ca. 1982. Collection of the Computer History Museum.</figcaption></figure>
+
 Within the arts, the innovative use of new media and technology is a constant. Andy Warhol used industrial processes to produce his art, Bruce Nauman used neon as his canvas, Alvin Lucier used audio feedback as a central concept in his work "I Am Sitting in a Room," and closer to home the experimental theater lab Crew uses technology and immersion to demonstrate the extent to which it changes people and society.
 
 Computers that can be creative themselves can be found, for example, in the work of the late Harold Cohen. He created AARON in collaboration with Kurzweil CyberArt Technologies, a computer program that creates paintings autonomously [McCorduck, 1991]. The work of Pindar Van Arman [Van Arman, 2017] and Aican [Elgammal, 2017] build on that pioneering work, adding procedures from artificial intelligence.
@@ -38,7 +40,7 @@ The Algorithmic Gaze was initiated by:
 
 ## Frederik De Bleser
 
-<img src="/static/media/people/frederik-de-bleser.jpg" alt="Head shot of Frederik De Bleser" class="pull-right">
+<img src="/static/media/about/frederik-de-bleser.jpg" alt="Head shot of Frederik De Bleser" class="pull-right">
 
 Dr. Frederik De Bleser (º1978) is a doctoral researcher and lecturer at Sint Lucas Antwerp. His research focuses on the connection between art and technology and the development of free software tools for generative design and data visualization. He is co-founder of the Experimental Media Research Group (EMRG). He coordinates the master in digital media at Sint Lucas, and works as a freelance data visualisation artist, creating projects for Belgian news and online democracy platforms.
 
@@ -46,7 +48,7 @@ Dr. Frederik De Bleser (º1978) is a doctoral researcher and lecturer at Sint Lu
 
 ## Lieven Menschaert
 
-<img src="/static/media/people/lieven-menschaert.jpg" alt="Head shot of Lieven Menschaert" class="pull-right">
+<img src="/static/media/about/lieven-menschaert.jpg" alt="Head shot of Lieven Menschaert" class="pull-right">
 
 Lieven Menschaert (º1975) ipsum dolor sit amet consectetur, adipisicing elit. Dolorum illum magni voluptatum molestiae veniam molestias obcaecati porro error voluptas iusto assumenda pariatur ab inventore nobis, aliquam quas? Tenetur, quisquam saepe.
 
