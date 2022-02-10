@@ -57,3 +57,4 @@ Cyber Sensuality was a project created and presented during the [ChampdAction LA
 - Mazarine Haarscheer
 - [David Bello Arcos](https://www.instagram.com/davidbello32/)
 - [Erik Berkey](https://theberkey.se/)
+- [Myrthe Bokelmann](https://myrthebokelmann.com/)
