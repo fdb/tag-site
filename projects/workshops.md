@@ -2,7 +2,7 @@
 layout: project
 tags: ["project", "figment"]
 title: Workshops
-subtitle: student workshops
+subtitle: Teaching our tools to students
 credits: Frederik De Bleser, Lieven Menschaert
 thumb_image: /static/media/workshops/workshops-thumb.png
 main_image: /static/media/workshops/workshops-cover.jpg
@@ -16,6 +16,6 @@ images:
   - /static/media/workshops/workshops-pokemon.jpg
 ---
 
-We organise workshops for our students and try to make them familiair with our software as a tool to create a dataset to train a model. Topics are in a variety of fields.
+We organise intensive machine learning workshops for students from [Sint Lucas Antwerpen](https://www.sintlucasantwerpen.be/en/sintlucasantwerpen/) and [LUCA school of arts](https://www.luca-arts.be/en). In these workshops we introduce students to the practice of machine learning, explaining the basic concepts and using our software to gather, prepare, train and visualise images or sounds. Topics are in a variety of fields.
 
-Students have been training on passerby data to create a models that synthesises them, on vegetables to create a vegetable shader, as a style tranfer experiment, on kaggle sets like pokemons..
+Students have been training on passerby data to create a models that synthesises them, on vegetables to create a vegetable shader, as a style transfer experiment, on Kaggle datasets like Pokemons...

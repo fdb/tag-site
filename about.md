@@ -50,6 +50,6 @@ Dr. Frederik De Bleser (º1978) is a doctoral researcher and lecturer at Sint Lu
 
 <img src="/static/media/about/lieven-menschaert.jpg" alt="Head shot of Lieven Menschaert" class="pull-right">
 
-Lieven Menschaert (º1975) ipsum dolor sit amet consectetur, adipisicing elit. Dolorum illum magni voluptatum molestiae veniam molestias obcaecati porro error voluptas iusto assumenda pariatur ab inventore nobis, aliquam quas? Tenetur, quisquam saepe.
+Lieven Menschaert (º1975) is a researcher and lecturer at Sint Lucas Antwerp and LUCA school of arts. His main interest is in generative and computational design and thus sees AI and machine learning as the logic next step in a procedural generation practice.
 
 <div class="spacer" style="padding-top: 100px"></div>
