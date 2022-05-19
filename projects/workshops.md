@@ -26,3 +26,5 @@ Through intensive machine learning workshops, we introduce participants to new e
 We've organised intensive machine learning workshops for students from [Sint Lucas Antwerpen](https://www.sintlucasantwerpen.be/en/sintlucasantwerpen/), [LUCA school of arts](https://www.luca-arts.be/en) and [Concordia University Montreal](https://www.concordia.ca/).
 
 Students have been training on passerby data to create a models that synthesises them, record and work with data from dance performances, collect images of vegetables to create a vegetable shader, as a style transfer experiment, on Kaggle datasets like Pokemons...
+
+A good article on our Figment workshops is at [Milieux's Research Blog](https://milieux.concordia.ca/recap-a-week-with-frederik-de-bleser/).
