@@ -22,13 +22,13 @@ During the performance we show and interact with the AI’s interpretation of th
 To train the AI we recorded a number of performances with dancers. Using pose detection we tracked the movements of the dancers. We then used [pix2pix](https://affinelayer.com/pixsrv/) to train the AI in understanding the correlation between the body and its pose.
 
 <figure>
-<video loop autoplay muted src="https://tag-site.s3-eu-central-1.amazonaws.com/cyber-sensuality/berkey-short-fade.mp4" width="100%"></video>
+<video loop autoplay muted playsinline src="https://tag-site.s3-eu-central-1.amazonaws.com/cyber-sensuality/berkey-short-fade.mp4" width="100%"></video>
 <figcaption>One of the dancers and the corresponding pose. This served as input for the training.</figcaption></figure>
 
 Through the process of training we can see the results improve:
 
 <figure>
-<video loop autoplay muted src="https://tag-site.s3-eu-central-1.amazonaws.com/cyber-sensuality/2021-erotique-training.mp4" width="100%"></video>
+<video loop autoplay muted playsinline src="https://tag-site.s3-eu-central-1.amazonaws.com/cyber-sensuality/2021-erotique-training.mp4" width="100%"></video>
 <figcaption>Watching the dancer gradually improving through training.</figcaption></figure>
 
 ## Results
@@ -36,13 +36,13 @@ Through the process of training we can see the results improve:
 After training we fed the AI dancer with poses from a dancer it had never seen. This resulted in mesmerizing, sometimes bizarre movements, that switched seamlessly between bodies and genders.
 
 <figure>
-<video loop autoplay muted src="https://tag-site.s3-eu-central-1.amazonaws.com/cyber-sensuality/ai-dancer-short-fade.mp4" width="100%"></video>
+<video loop autoplay muted playsinline src="https://tag-site.s3-eu-central-1.amazonaws.com/cyber-sensuality/ai-dancer-short-fade.mp4" width="100%"></video>
 <figcaption>A short fragment of the final video.</figcaption></figure>
 
 Next to bodies we also trained the AI on faces:
 
 <figure>
-<video loop autoplay muted src="https://tag-site.s3-eu-central-1.amazonaws.com/cyber-sensuality/face-short.mp4" width="100%"></video>
+<video loop autoplay muted playsinline src="https://tag-site.s3-eu-central-1.amazonaws.com/cyber-sensuality/face-short.mp4" width="100%"></video>
 <figcaption>Faces being generated using a face mesh.</figcaption></figure>
 
 ## Credits

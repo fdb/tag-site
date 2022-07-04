@@ -24,7 +24,7 @@ A curated friend, an empty character to mirror our society, their own creator, a
 Through dialogue with AI text generator GPT2, Alexandra Fraser curated Maureen as a character to mirror human society and a medium though which to discuss ethics and identity politics. She proposed that her extended dialogue with Maureen, paired with physical play will create space in which to explore ethics of identity and deconstruct the self, particularly in view of the ethical questions which arise as we now exist between and through virtual spaces alongside our avatars and artificially intelligent colleagues. Artificial Intelligence provides a neutral but very human voice with which to explore who we are becoming as humans. She does not question Maureen’s ethics, but rather uses Maureen as a medium to question our own.
 
 <figure>
-<video loop autoplay muted src="https://tag-site.s3-eu-central-1.amazonaws.com/maureen/maureen-1.mp4" width="100%"></video>
+<video loop autoplay muted playsinline src="https://tag-site.s3-eu-central-1.amazonaws.com/maureen/maureen-1.mp4" width="100%"></video>
 <figcaption>Maureen being controlled by a realtime, real face.</figcaption></figure>
 
 ## Training
@@ -37,7 +37,7 @@ The input dataset is based on [this person does not exist](https://thispersondoe
 By training this with PIX2PIX, our model learns the mapping between a face mesh and an AI-generated face. This allowed us to control the face in realtime by generating a new face mesh based on the input of the webcam:
 
 <figure>
-<video loop autoplay muted src="https://tag-site.s3-eu-central-1.amazonaws.com/maureen/maureen-2.mp4" width="100%"></video>
+<video loop autoplay muted playsinline src="https://tag-site.s3-eu-central-1.amazonaws.com/maureen/maureen-2.mp4" width="100%"></video>
 <figcaption>Maureen and a realtime face, side-by-side.</figcaption></figure>
 
 ## Credits

@@ -16,4 +16,4 @@ The work was presented as a collection of images and a movie of the training pro
 [Website of Iren Loontjens](https://difomphotography.com/)
 
 <div class="spacer" style="padding-top: 100px"></div>
-<video loop autoplay muted src="https://tag-site.s3-eu-central-1.amazonaws.com/polaroid-memories-1.mp4" width="100%"></video>
+<video loop autoplay muted playsinline src="https://tag-site.s3-eu-central-1.amazonaws.com/polaroid-memories-1.mp4" width="100%"></video>

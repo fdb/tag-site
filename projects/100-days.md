@@ -18,6 +18,6 @@ She experimented with [GANdelve](/tools/gandelve) to "restore" the original imag
 
 <br/>
 
-<video loop autoplay muted src="/static/media/100-days/100-days.mp4" width="100%"></video>
+<video loop autoplay muted playsinline src="/static/media/100-days/100-days.mp4" width="100%"></video>
 
 [Joud Toamah on Cargo Collective](https://cargocollective.com/joudtoamah)

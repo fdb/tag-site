@@ -18,4 +18,4 @@ Due to climate change, the exotics are now falling prey to drought stress and to
 
 A collection of synthesised videos with the photographic material as the starting point of a PIX2PIX algorithm was made for the exhibition. The typesetter, an agent-based organism, makes characteristic patterns in the inside of the bark. The algorithm parsed that signature and trained a model that served as the basis for another agent-based signature pattern. The underlying idea was to use the signature as a generator for new tree structures.
 
-<video loop autoplay muted src="/static/media/hunger-of-the-pine/hunger-of-the-pine-combined-output.mp4" width="80%" style="margin-left: 10%"></video>
+<video loop autoplay muted playsinline src="/static/media/hunger-of-the-pine/hunger-of-the-pine-combined-output.mp4" width="80%" style="margin-left: 10%"></video>
