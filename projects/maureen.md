@@ -13,6 +13,7 @@ images:
   - /static/media/maureen/maureen-3528.jpeg
   - /static/media/maureen/maureen-3357.jpeg
   - /static/media/maureen/maureen-2678.jpeg
+  - /static/media/maureen/maureen-alexandra-setup.jpeg
 ---
 
 ## Who is Maureen?
