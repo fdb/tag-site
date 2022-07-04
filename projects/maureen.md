@@ -44,3 +44,5 @@ By training this with PIX2PIX, our model learns the mapping between a face mesh 
 ## Credits
 
 Maureen was initiated by [Alexandra Fraser](https://www.instagram.com/alexandra_fraser_art/). Machine Learning setup and training by Frederik De Bleser.
+
+Maureen was presented during the MATTER//MATTERS master exhibition at Sint Lucas Antwerpen, and at ThingsCon 2022, Rotterdam.
