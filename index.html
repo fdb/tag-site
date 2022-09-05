@@ -12,18 +12,16 @@ layout: home
 </header>
 
 <section class="intro">
-  The Algorithmic Gaze is a research project exploring the impact of AI through
-  interesting projects and democratizing the tools of machine learning.
+  The Algorithmic Gaze is the research lab of <a href="https://www.sintlucasantwerpen.be/" target="_blank">Sint Lucas
+    Antwerpen</a> exploring the impact of AI through interesting projects and democratizing the tools of machine
+  learning.
 </section>
 
 <section class="featured">
   <h1>Featured Collaboration</h1>
-  <a href="/projects/cyber-sensuality" class="figure-link"
-    ><figure>
-      <img
-        src="/static/media/cyber-sensuality/cyber-sensuality-featured.jpg"
-        alt="Cyber Sensuality project"
-      />
+  <a href="/projects/cyber-sensuality" class="figure-link">
+    <figure>
+      <img src="/static/media/cyber-sensuality/cyber-sensuality-featured.jpg" alt="Cyber Sensuality project" />
       <figcaption>
         <p class="title">Cyber Sensuality</p>
         <p class="subtitle">Training an AI Dancer through PIX2PIX</p>
@@ -34,21 +32,12 @@ layout: home
 
 <section class="intro">
   <p>
-    The applications of artificial intelligence have permeated our society in
-    recent years. Consider speech recognition, translation software, fraud
-    detection, cancer cell detection, facial recognition and self-driving cars.
-    Many of those applications teach the computer to look at the world.
-  </p>
-  <p>
-    In this research project we want to explore the creative applications of AI
-    by gaining insight into the artificial thinking process of the computer. How
-    can we, by "deciphering" the algorithms, get a view of "The Algorithmic
-    Gaze" - the image that the computer has of the world, and how does this view
-    influence our own view of reality? Is it a method that can create a new kind
-    of innovative images or styles? Can a computer algorithm guide a creative
-    process? And how do we democratize this research by simplifying the complex
-    procedures so that they become accessible to a broad group of non-technical
-    designers and artists?
+    Our mission is to bring AI into the artist's practice by developing open-source tools and methodologies
+    that make the domain more accessible and transparent. Our research asks how AI can become a trusted partner in the
+    creative process, both during creation and execution. We explore how AI understands the materiality of body, space
+    and time. Our approach avoids megalomanic datasets; instead we focus on carefully self-assembled datasets and an
+    intuitive visual understanding of algorithms to avoid the bias inherent in large-scale models and take ownership of
+    our own "small AI."
   </p>
   <p><a href="/about">Read More</a></p>
 </section>
@@ -62,10 +51,7 @@ layout: home
   <div class="side-by-side">
     <a class="figure-link" href="/tools/figment">
       <figure>
-        <img
-          src="/static/media/figment/figment-screenshot.png"
-          alt="Screenshot of the Figment application"
-        />
+        <img src="/static/media/figment/figment-screenshot.png" alt="Screenshot of the Figment application" />
         <figcaption>
           <p class="title">Figment</p>
           <p class="subtitle">
@@ -76,10 +62,7 @@ layout: home
     </a>
     <a class="figure-link" href="/tools/gandelve">
       <figure>
-        <img
-          src="/static/media/gandelve/gandelve-screenshot.png"
-          alt="Screenshot of the GANDelve application"
-        />
+        <img src="/static/media/gandelve/gandelve-screenshot.png" alt="Screenshot of the GANDelve application" />
         <figcaption>
           <p class="title">GANDelve</p>
           <p class="subtitle">Deep exploration of tailor-made GANs</p>
@@ -96,11 +79,7 @@ layout: home
     {% for project in collections.project %}
     <a class="figure-link" href="{{ project.url }}">
       <figure>
-        <img
-          class="project-thumb"
-          src="{{ project.data.thumb_image }}"
-          alt="{{ project.data.title }}"
-        />
+        <img class="project-thumb" src="{{ project.data.thumb_image }}" alt="{{ project.data.title }}" />
         <figcaption>
           <p class="title">{{ project.data.title }}</p>
           <p class="subtitle">{{ project.data.subtitle }}</p>
