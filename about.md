@@ -13,9 +13,17 @@ and time. Our approach avoids megalomanic datasets; instead we focus on carefull
 intuitive visual understanding of algorithms to avoid the bias inherent in large-scale models and take ownership of
 our own "small AI."
 
+<div class="spacer" style="padding-top: 100px"></div>
+
 # Goals
 
-The goal of this research is to make **artistic creation via artificial intelligence available to artists and designers**. For this, we first want to **gain insight** into the artificial looking of the machine and the artistic potential of current tools. Then we will develop **new user-friendly software** to link to existing creative processes. We **share the available knowledge** through lectures, workshops, freely available (open source) software and online documentation.
+The goal of this research is to make **artistic creation via artificial intelligence available to artists and designers**. For this, we:
+
+- Develop **new user-friendly software** to link to existing creative processes,
+- Initiate **artistic collaborations** with artists and designers to help them use our tools and methods,
+- **Share available knowledge** through lectures, papers, workshops, freely available (open source) software and online documentation.
+
+<div class="spacer" style="padding-top: 100px"></div>
 
 # People
 
@@ -35,7 +43,7 @@ Dr. Frederik De Bleser (º1978) is a doctoral researcher and lecturer at Sint Lu
 
 Lieven Menschaert (º1975) is a researcher and lecturer at Sint Lucas Antwerp and LUCA school of arts. His main interest is in generative and computational design and thus sees AI and machine learning as the logic next step in a procedural generation practice.
 
-<div class="spacer" style="padding-top: 100px"></div>
+<div class="spacer" style="padding-top: 30px"></div>
 
 ## Ine Vanoeveren
 
@@ -44,3 +52,5 @@ Lieven Menschaert (º1975) is a researcher and lecturer at Sint Lucas Antwerp an
 Belgian flutist and Doctor of Musical Arts, Ine Vanoeveren, is specialized in contemporary music and XR-performance. She performed at numerous contemporary music festivals worldwide and won several international awards and prizes. In addition to performing, Ine is an assistant professor in contemporary music at the Royal Conservatory of Liège, a senior artistic researcher in XR-performances at PXL-MAD (PXL Hasselt) and MAXlab (Royal Academy of Fine Arts, Antwerp) and a researcher in Creative AI-applications for realtime performance at Sint-Lucas Antwerp. She is also the coordinator of the postgraduate eArts at PXL-MAD.
 
 She is part of the digital arts collective [studio.POC](https://www.studiopoc.com/), where she focuses on hybrid digital performances in virtual surroundings.
+
+<div class="spacer" style="padding-top: 100px"></div>
