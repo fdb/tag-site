@@ -53,3 +53,11 @@ Dr. Frederik De Bleser (º1978) is a doctoral researcher and lecturer at Sint Lu
 Lieven Menschaert (º1975) is a researcher and lecturer at Sint Lucas Antwerp and LUCA school of arts. His main interest is in generative and computational design and thus sees AI and machine learning as the logic next step in a procedural generation practice.
 
 <div class="spacer" style="padding-top: 100px"></div>
+
+## Ine Vanoeveren
+
+<img src="/static/media/about/ine-vanoeveren.jpg" alt="Head shot of Ine Vanoeveren" class="pull-right">
+
+Belgian flutist and Doctor of Musical Arts, Ine Vanoeveren, is specialized in contemporary music and XR-performance. She performed at numerous contemporary music festivals worldwide and won several international awards and prizes. In addition to performing, Ine is an assistant professor in contemporary music at the Royal Conservatory of Liège, a senior artistic researcher in XR-performances at PXL-MAD (PXL Hasselt) and MAXlab (Royal Academy of Fine Arts, Antwerp) and a researcher in Creative AI-applications for realtime performance at Sint-Lucas Antwerp. She is also the coordinator of the postgraduate eArts at PXL-MAD.
+
+She is part of the digital arts collective [studio.POC](https://www.studiopoc.com/), where she focuses on hybrid digital performances in virtual surroundings.
