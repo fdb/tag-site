@@ -21,22 +21,22 @@ layout: base
 </div>
 
 
-<div class="project-other">
+<div class="collaborations-other">
 <section>
-<h1>Other Projects</h1>
+<h1>Other Collaborations</h1>
 <div class="figure-grid">
-{% for project in collections.project %}
-{% if project.data.title != title %}
-<a class="figure-link" href="{{ project.url }}">
+{% for collab in collections.collaboration %}
+{% if collab.data.title != title %}
+<a class="figure-link" href="{{ collab.url }}">
   <figure>
     <img
-      class="project-thumb"
-      src="{{ project.data.thumb_image }}"
-      alt="{{ project.data.title }}"
+      class="collab-thumb"
+      src="{{ collab.data.thumb_image }}"
+      alt="{{ collab.data.title }}"
     />
     <figcaption>
-      <p class="title">{{ project.data.title }}</p>
-      <p class="subtitle">{{ project.data.subtitle }}</p>
+      <p class="title">{{ collab.data.title }}</p>
+      <p class="subtitle">{{ collab.data.subtitle }}</p>
     </figcaption>
   </figure>
 </a>

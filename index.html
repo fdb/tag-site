@@ -19,7 +19,7 @@ layout: home
 
 <section class="featured">
   <h1>Featured Collaboration</h1>
-  <a href="/projects/cyber-sensuality" class="figure-link">
+  <a href="/collaborations/cyber-sensuality" class="figure-link">
     <figure>
       <img src="/static/media/cyber-sensuality/cyber-sensuality-featured.jpg" alt="Cyber Sensuality project" />
       <figcaption>
@@ -72,17 +72,17 @@ layout: home
   </div>
 </section>
 
-<section class="projects" id="projects">
+<section class="collaborations" id="collaborations">
   <h1>Collaborations</h1>
   <p>We help artists use our tools and methods to create new AI-based work.</p>
   <div class="figure-grid">
-    {% for project in collections.project %}
-    <a class="figure-link" href="{{ project.url }}">
+    {% for collab in collections.collaboration %}
+    <a class="figure-link" href="{{ collab.url }}">
       <figure>
-        <img class="project-thumb" src="{{ project.data.thumb_image }}" alt="{{ project.data.title }}" />
+        <img class="collab-thumb" src="{{ collab.data.thumb_image }}" alt="{{ collab.data.title }}" />
         <figcaption>
-          <p class="title">{{ project.data.title }}</p>
-          <p class="subtitle">{{ project.data.subtitle }}</p>
+          <p class="title">{{ collab.data.title }}</p>
+          <p class="subtitle">{{ collab.data.subtitle }}</p>
         </figcaption>
       </figure>
     </a>

@@ -1,6 +1,6 @@
 ---
-layout: project
-tags: ["project", "gandelve"]
+layout: collaboration
+tags: ["collaboration", "gandelve"]
 title: Polaroid Memories
 subtitle: Re-discovering found footage through GANDelve
 credits: Iren Loontjens

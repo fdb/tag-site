@@ -1,6 +1,6 @@
 ---
-layout: project
-tags: ["project", "figment"]
+layout: collaboration
+tags: ["collaboration", "figment"]
 title: Maureen
 subtitle: A critical mirror on AI in our society
 credits: Alexandra Fraser, Frederik De Bleser

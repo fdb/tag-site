@@ -1,6 +1,6 @@
 ---
-layout: project
-tags: ["project", "figment"]
+layout: collaboration
+tags: ["collaboration", "figment"]
 title: Cyber Sensuality
 subtitle: Training an AI Dancer through PIX2PIX
 credits: Nikola Scheibe, Alexandra Fraser, Madina Mahomedova, Mazarine Haarscheer and David Bello Arcos

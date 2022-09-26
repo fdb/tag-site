@@ -1,6 +1,6 @@
 ---
-layout: project
-tags: ["project", "figment"]
+layout: collaboration
+tags: ["collaboration", "figment"]
 title: Workshops
 subtitle: Teaching our tools to students
 credits: Frederik De Bleser, Lieven Menschaert

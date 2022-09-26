@@ -1,6 +1,6 @@
 ---
-layout: project
-tags: ["project", "figment"]
+layout: collaboration
+tags: ["collaboration", "figment"]
 title: Hunger of the Pine
 subtitle: AI artwork around natural sustainability
 credits: Kristof Vrancken, Lieven Menschaert
