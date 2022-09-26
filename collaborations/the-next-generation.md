@@ -56,8 +56,8 @@ We invited the elementary school students back to our campus to present the resu
 A production movie of the project was presented during the [academic opening](https://www.auha.be/opening-academiejaar-2022-2023/), on Thursday, September 29nd, in the [Stadsschouwburg Antwerpen](https://www.stadsschouwburg-antwerpen.be/en/home).
 
 ## Credits
-- Isabelle De Ridder (University of Antwerp) — project lead
+- Isabelle De Ridder ([University of Antwerp](https://www.uantwerpen.be/en/)) — project lead
 - Frederik De Bleser, Lieven Menschaert — machine learning and development
-- Mathias Mallentjer, Brent Meynen (Production Office) — general production
+- Mathias Mallentjer, Brent Meynen ([Production Office](https://www.productionoffice.be/)) — general production
 - Alexandra Fraser (Sint Lucas Antwerpen) — feedback and interviews
 - Ine Vanoeveren, Imane Benyecif — testing and support
