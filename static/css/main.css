@@ -306,11 +306,11 @@ figcaption .subtitle {
 
 /**** COLLABORATIONS *****/
 
-.project-header {
+.meta-header {
   background-color: var(--main-color-dark);
 }
 
-.project-header-inner {
+.meta-header-inner {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px 10px 30px 10px;
@@ -318,20 +318,20 @@ figcaption .subtitle {
   flex-direction: column;
 }
 
-.project-main-image {
+.meta-main-image {
   padding: 0 0 0px 0;
   height: 800px;
   object-fit: cover;
   width: 100%;
 }
 
-.project-title {
+.meta-title {
   font: 2rem "Space Grotesk", sans-serif;
   font-weight: bold;
   margin: 0 0 6px 0;
 }
 
-.project-credits {
+.meta-credits,.meta-subtitle {
   font-size: 1.2rem;
   margin: 0 0 20px 0;
 }
@@ -346,7 +346,7 @@ figcaption .subtitle {
   margin: 0 auto;
 }
 
-.project-other {
+.meta-other {
   margin-top: 100px;
   padding-top: 40px;
   background-color: var(--main-color-light);

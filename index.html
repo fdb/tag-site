@@ -42,6 +42,24 @@ layout: home
   <p><a href="/about">Read More</a></p>
 </section>
 
+<section class="projects" id="projects">
+  <h1>Projects</h1>
+  <p>We do research in the field of creative AI.</p>
+  <div class="figure-grid">
+    {% for project in collections.project %}
+    <a class="figure-link" href="{{ project.url }}">
+      <figure>
+        <img class="project-thumb" src="{{ project.data.thumb_image }}" alt="{{ project.data.title }}" />
+        <figcaption>
+          <p class="title">{{ project.data.title }}  ({{ project.data.period }})</p>
+          <p class="subtitle">{{ project.data.subtitle }}</p>
+        </figcaption>
+      </figure>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
 <section class="tools" id="tools">
   <h1>Tools</h1>
   <p>
