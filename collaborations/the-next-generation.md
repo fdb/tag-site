@@ -9,7 +9,14 @@ main_image: /static/media/next-generation/next-generation-featured.jpg
 images:
   - /static/media/next-generation/next-generation-featured.jpg
 ---
+
 For the opening of the academic year, research group The Algorithmic Gaze (Sint Lucas Antwerp, KdG) organized an experiment in which elementary school children were filmed and questioned about their interests and dreams. The images were then processed by an AI algorithm and synthesized into new images, new faces, the new generation.
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oZejKyjnkm0"></iframe>
+</div>
+
+<br/><br/>
 
 After recording all faces, we used [Figment](https://figmentapp.com/) with Google's [MediaPipe](https://mediapipe.dev/) to extract the face mesh from the video recordings.
 
@@ -18,7 +25,7 @@ After recording all faces, we used [Figment](https://figmentapp.com/) with Googl
   <figcaption>Extracting the face mesh from a video recording.</figcaption>
 </figure>
 
-We used NVIDIA's [pix2pixHD](https://tcwang0509.github.io/pix2pixHD/) algorithm, a high-quality conditional GAN to learn the mapping between segmented face masks and the recorded video footage. 
+We used NVIDIA's [pix2pixHD](https://tcwang0509.github.io/pix2pixHD/) algorithm, a high-quality conditional GAN to learn the mapping between segmented face masks and the recorded video footage.
 
 <figure>
   <video loop autoplay muted playsinline src="https://tag-site.s3-eu-central-1.amazonaws.com/next-generation/training-progress.mp4" width="100%"></video>
@@ -31,7 +38,6 @@ We performed extensive testing and re-training, checking difficult conditions (e
   <img src="/static/media/next-generation/face-errors.jpg" alt="Errors in training">
   <figcaption>Typical errors occuring in training: misplaced eyes and noses, distorted faces due to incorrect segmentation</figcaption>
 </figure>
-
 
 Through a custom-built app, we could control the algorithm interactively via webcam:
 
@@ -56,6 +62,7 @@ We invited the elementary school students back to our campus to present the resu
 A production movie of the project was presented during the [academic opening](https://www.auha.be/opening-academiejaar-2022-2023/), on Thursday, September 29nd, in the [Stadsschouwburg Antwerpen](https://www.stadsschouwburg-antwerpen.be/en/home).
 
 ## Credits
+
 - Isabelle De Ridder ([University of Antwerp](https://www.uantwerpen.be/en/)) — project lead
 - Frederik De Bleser, Lieven Menschaert — machine learning and development
 - Mathias Mallentjer, Brent Meynen ([Production Office](https://www.productionoffice.be/)) — general production
