@@ -12,11 +12,15 @@ images:
 
 For the opening of the academic year, research group The Algorithmic Gaze (Sint Lucas Antwerp, KdG) organized an experiment in which elementary school children were filmed and questioned about their interests and dreams. The images were then processed by an AI algorithm and synthesized into new images, new faces, the new generation.
 
+Project movie (in Dutch):
+
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oZejKyjnkm0"></iframe>
 </div>
 
 <br/><br/>
+
+# Method
 
 After recording all faces, we used [Figment](https://figmentapp.com/) with Google's [MediaPipe](https://mediapipe.dev/) to extract the face mesh from the video recordings.
 
