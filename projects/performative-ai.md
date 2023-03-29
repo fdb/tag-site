@@ -25,6 +25,18 @@ We foster external collaborations with leading artists and researchers, such as 
   <figcaption>It Feels Like Home. Martina Menegon</figcaption>
 </figure>
 
+We presented an early version of the research during the Milieux Research Week at Concordia University, Montreal:
+
+<br><br>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PRmCYmBpYCc"></iframe>
+</div>
+
+<br><br>
+
+
+
 ## Contributing Researchers
 
 - Frederik De Bleser
