@@ -10,6 +10,7 @@ images:
   - /static/media/does-ai-dream-of-gender/exhibition-2.jpg
   - /static/media/does-ai-dream-of-gender/exhibition-1.jpg
   - /static/media/does-ai-dream-of-gender/exhibition-3.jpg
+  - /static/media/does-ai-dream-of-gender/exhibition-4.jpg
   - /static/media/does-ai-dream-of-gender/grid.jpg
 ---
 ‘Does AI Dream of Gender?’ is an interactive audio-visual installation that explores the topic of gender performativity in digital space. Created using image-to-image translation AI algorithms, this project is a visual research and study of how AI understands the idea of gender, based simply on open-source photo databases taken from the internet. 
