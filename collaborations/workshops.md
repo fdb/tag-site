@@ -27,4 +27,3 @@ We've organised intensive machine learning workshops for students from [Sint Luc
 
 Students have been training on passerby data to create a models that synthesises them, record and work with data from dance performances, collect images of vegetables to create a vegetable shader, as a style transfer experiment, on Kaggle datasets like Pokemons...
 
-A good article on our Figment workshops is at [Milieux's Research Blog](https://milieux.concordia.ca/recap-a-week-with-frederik-de-bleser/).
