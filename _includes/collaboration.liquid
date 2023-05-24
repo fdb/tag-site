@@ -14,9 +14,9 @@ layout: base
 
 <div class="masonry-grid">
   {% for image in images %}
-    <div class="masonry-brick">
+    <a href="{{ image }}">
       <img class="masonry-image" src="{{ image }}" alt="{{ title }}">
-    </div>
+    </a>
   {% endfor %}
 </div>
 

@@ -9,9 +9,11 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
   <link
     href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&family=Work+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
     rel="stylesheet">
+    <link  href="https://cdn.jsdelivr.net/npm/lightgallery@2.0.1/css/lightgallery.css" rel="stylesheet">
   <link href="/static/css/main.css" rel="stylesheet">
 </head>
 
@@ -58,4 +60,12 @@
       document.getElementById('site-header').classList.toggle('menu-visible');
     });
   </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/lightgallery.min.js"></script>
+    <script type="text/javascript">
+    lightGallery(document.querySelector('.masonry-grid'), {
+        speed: 500,
+        download: false,
+        counter: false
+    });
+</script>
 </body>
