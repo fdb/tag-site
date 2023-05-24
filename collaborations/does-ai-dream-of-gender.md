@@ -32,4 +32,4 @@ The main inspirations behind this project are ideas of post- and trans- humanism
 
 Created by Madina Mahomedova as part of her BA graduation project for the PJATK (Warsaw, Poland) New Media Art department, in collaboration with the researchers from The Aglorithmic Gaze. Madina is an artist from Lviv, Ukraine.  In her work, she focuses on ideas of gender performativity & gender fluidity in digital spaces. At present, Madina is based in Brussels, Belgium. 
 
-Created under the conceptual supervision of Mgr. Klaudiusz Ślusarczyk and technical supervision of teacher & researcher Frederik de Bleser. Presented at the [WRO Media Art Biennale](https://wro2023.wrocenter.pl/en/works/does-ai-dream-of-gender/) in Wrocław, Poland in May '23.
+Created under the conceptual supervision of Mgr. Klaudiusz Ślusarczyk and technical supervision of teacher & researcher Frederik De Bleser. Presented in Antwerp in July '22 and at the [WRO Media Art Biennale](https://wro2023.wrocenter.pl/en/works/does-ai-dream-of-gender/) in Wrocław, Poland in May '23.
