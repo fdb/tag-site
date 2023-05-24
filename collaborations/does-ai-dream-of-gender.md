@@ -7,6 +7,8 @@ credits: Madina Mahomedova, Frederik De Bleser
 thumb_image: /static/media/does-ai-dream-of-gender/does-ai-dream-of-gender-thumb.jpg
 main_image: /static/media/does-ai-dream-of-gender/does-ai-dream-of-gender-cover.jpg
 images:
+  - /static/media/does-ai-dream-of-gender/wroclaw-1.jpg
+  - /static/media/does-ai-dream-of-gender/wroclaw-2.jpg
   - /static/media/does-ai-dream-of-gender/exhibition-2.jpg
   - /static/media/does-ai-dream-of-gender/exhibition-1.jpg
   - /static/media/does-ai-dream-of-gender/exhibition-3.jpg
@@ -30,4 +32,4 @@ The main inspirations behind this project are ideas of post- and trans- humanism
 
 Created by Madina Mahomedova as part of her BA graduation project for the PJATK (Warsaw, Poland) New Media Art department, in collaboration with the researchers from The Aglorithmic Gaze. Madina is an artist from Lviv, Ukraine.  In her work, she focuses on ideas of gender performativity & gender fluidity in digital spaces. At present, Madina is based in Brussels, Belgium. 
 
-Created under the conceptual supervision of Mgr. Klaudiusz Ślusarczyk and technical supervision of teacher & researcher Frederik de Bleser. 
+Created under the conceptual supervision of Mgr. Klaudiusz Ślusarczyk and technical supervision of teacher & researcher Frederik de Bleser. Presented at the [WRO Media Art Biennale](https://wro2023.wrocenter.pl/en/works/does-ai-dream-of-gender/) in Wrocław, Poland in May '23.
