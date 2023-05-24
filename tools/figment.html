@@ -5,51 +5,47 @@ layout: page
 <h1>Figment</h1>
 
 <div class="img-width-lg">
-  <img
-    class="img-width-lg"
-    src="/static/media/figment/figment-screenshot.png"
-    alt="Screenshot of the Figment application"
-  />
+    <img class="img-width-lg" src="/static/media/figment/figment-screenshot.png"
+        alt="Screenshot of the Figment application" />
 </div>
 
 <p>
-  Using machine learning for students can still be daunting. In recent years,
-  the situation has been improved by libraries such as ml5.js, which make
-  machine learning available to anyone with a basic knowledge of coding. But
-  linking all these different components together is still a lot of work.
+    Using machine learning for students can still be daunting. In recent years,
+    the situation has been improved by libraries such as ml5.js, which make
+    machine learning available to anyone with a basic knowledge of coding. But
+    linking all these different components together is still a lot of work.
 </p>
 
 <p>
-  The goal of Figment is to be the easiest tool to start using AI for creative
-  purposes. After you download and run the tool, you can set up a simple drawing
-  application that uses your body with a few clicks. The basic methodology is
-  that of visual coding, which we also used in the NodeBox project based on
-  previous research.
+    The goal of Figment is to be the easiest tool to start using AI for creative
+    purposes. After you download and run the tool, you can set up a simple drawing
+    application that uses your body with a few clicks. The basic methodology is
+    that of visual coding, which we also used in the NodeBox project based on
+    previous research.
 </p>
 
 <p>
-  Figment was used in a one-day pre-master class in March 2020 with 10 students.
-  Within a few hours, students, some with no prior programming skills, were able
-  to create projects that used machine learning to do pose detection, collage
-  generation and more.
+    Figment was used in a one-day pre-master class in March 2020 with 10 students.
+    Within a few hours, students, some with no prior programming skills, were able
+    to create projects that used machine learning to do pose detection, collage
+    generation and more.
 </p>
+
+<p><strong><a href="https://figmentapp.com/">figmentapp.com</a></strong></p>
+
 
 <h1>Projects</h1>
 <p>The following projects were made using Figment:</p>
 <div class="figure-grid">
-  {% for project in collections.figment %}
-  <a class="figure-link" href="{{ project.url }}">
-    <figure>
-      <img
-        class="project-thumb"
-        src="{{ project.data.thumb_image }}"
-        alt="{{ project.data.title }}"
-      />
-      <figcaption>
-        <p class="title">{{ project.data.title }}</p>
-        <p class="subtitle">{{ project.data.subtitle }}</p>
-      </figcaption>
-    </figure>
-  </a>
-  {% endfor %}
+    {% for project in collections.figment %}
+    <a class="figure-link" href="{{ project.url }}">
+        <figure>
+            <img class="project-thumb" src="{{ project.data.thumb_image }}" alt="{{ project.data.title }}" />
+            <figcaption>
+                <p class="title">{{ project.data.title }}</p>
+                <p class="subtitle">{{ project.data.subtitle }}</p>
+            </figcaption>
+        </figure>
+    </a>
+    {% endfor %}
 </div>
