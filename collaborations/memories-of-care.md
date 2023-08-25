@@ -60,3 +60,5 @@ The installation runs both a live webcam feed and a pre-recorded video. If it ca
 ## Credits
 
 "Memories of Care" was initiated by [Martina Menegon](https://martinamenegon.xyz/). Machine Learning setup and training by Frederik De Bleser and Lieven Menschaert.
+
+The project was selected for the WRONG Biennale exhibitions. It will be part of the “Becoming Machine” exhibition curated by [Dr Isil Ezgi Celik](https://capitart.com/isil-ezgi-celik-director-of-capitart/) / of [capitArt](https://capitart.com/) and will be shown in London as well as in VR.
