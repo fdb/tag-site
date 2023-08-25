@@ -227,11 +227,20 @@ section.tools {
   gap: 20px;
 }
 
+.side-by-side video {
+  max-width: 100%;
+  flex: 1;
+}
+
 @media (min-width: 550px) {
   .side-by-side {
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-end;
+  }
+
+  .side-by-side video {
+    width: 50%;
   }
 }
 
