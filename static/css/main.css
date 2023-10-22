@@ -163,7 +163,7 @@ body {
 /**** JUMBO HEADER ****/
 
 .jumbo {
-  height: calc(100vh - 50px);
+  height: calc(100svh - 50px);
   color: white;
   display: flex;
   flex-direction: column;
