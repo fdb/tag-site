@@ -27,15 +27,15 @@ The goal of this research is to make **artistic creation via artificial intellig
 
 # People
 
-The Algorithmic Gaze was initiated by:
-
 ## Frederik De Bleser
 
 <img src="/static/media/about/frederik-de-bleser.jpg" alt="Head shot of Frederik De Bleser" class="pull-right">
 
-Dr. Frederik De Bleser (º1978) is a doctoral researcher and lecturer at Sint Lucas Antwerp. His research focuses on the connection between art and technology and the development of free software tools for generative design and data visualization. He is co-founder of the Experimental Media Research Group (EMRG). He coordinates the master in digital media at Sint Lucas, and works as a freelance data visualisation artist, creating projects for Belgian news and online democracy platforms.
+Dr. Frederik De Bleser (º1978) is a researcher and lecturer at Sint Lucas Antwerp. His research focuses on the connection between art and technology and the development of free software tools for artificial intelligence and data visualization. He is co-founder of the Experimental Media Research Group (EMRG). He coordinates the master in digital media at Sint Lucas, and works as a freelance data visualisation artist, creating projects for Belgian news and online democracy platforms.
 
 [enigmeta.com](https://www.enigmeta.com/)
+
+<div class="spacer" style="padding-top: 30px"></div>
 
 ## Lieven Menschaert
 
@@ -43,7 +43,27 @@ Dr. Frederik De Bleser (º1978) is a doctoral researcher and lecturer at Sint Lu
 
 Lieven Menschaert (º1975) is a researcher and lecturer at Sint Lucas Antwerp and LUCA school of arts. His main interest is in generative and computational design and thus sees AI and machine learning as the logic next step in a procedural generation practice.
 
+<div class="spacer" style="padding-top: 50px"></div>
+
+## Cèlia Tort Pujol 
+
+<img src="/static/media/about/celia-tort-pujol.jpg" alt="Head shot of Cèlia Tort Pujol" class="pull-right">
+
+Cèlia Tort Pujol (Vic, Catalunya, 1995) is a Catalan oboist and performer based in Amsterdam since 2018, where she graduated cum laude from her music masters in June 2020. She is a co-founder and member of “notthecenter” and “Intimate Cats Of Schwarzwald”, international and interdisciplinary collectives working in site-specific performances through sound, movement and visuals arts, [Lilith Ensemble](https://lilithensembleofficial.com/), a music group which only performs compositions written by female composers, and member of [Tuscany Music Revolution](https://tuscanymusicrevolution.com/), a collective dedicated to exploring new ways of making music through free improvisation. She is involved in educational activities around music improvisation and also in publishing about how to incorporate the oboe in new contexts of music creation. She has performed in venues and festivals from Catalunya, Spain, Andorra, The Netherlands, Belgium, Germany, Denmark, Slovenia, Slovakia, Latvia, England and US.
+
 <div class="spacer" style="padding-top: 30px"></div>
+
+## Myrthe Bokelmann
+
+<img src="/static/media/about/myrthe-bokelmann.jpg" alt="Head shot of Myrthe Bokelmann" class="pull-right">
+
+Myrthe Bokelmann (they/she, 1998) is a freelance dance maker and dance performer, currently based in Antwerp, Belgium. Within their artistic practice she is interested in the relationship between human and non-human entities and the way in which they can perform together in a non-hierarchical way.  As a performer Myrthe has worked with Claudia Bosse, Ashley Ho & Domenik Naue, Eilit Marom and LeineRoebana amongst others. Currently they are part of research group the Algorithmic Gaze at Sint Lucas working on performative AI from a bodily perspective. 
+
+[myrthebokelmann.com](https://myrthebokelmann.com/)
+
+<div class="spacer" style="padding-top: 30px"></div>
+
+# Former Members
 
 ## Ine Vanoeveren
 
