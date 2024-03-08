@@ -7,6 +7,7 @@ thumb_image: /static/media/performative-ai/performative-ai-thumb.jpg
 main_image: /static/media/performative-ai/performative-ai-featured.jpg
 period: 2022 - 2024
 ---
+
 The applications of artificial intelligence are everywhere: just think of image recognition, recommendation algorithms, voice and face recognition algorithms, ... In the arts, AI also leads to interesting results, however often by using powerful hardware or existing datasets, and thus beyond the reach or control of most artists.
 
 Our research project aims to bring AI into the artist's practice by developing open-source tools and methodologies that make the domain more accessible and transparent. The project asks how AI can become a trusted partner in the creative process, both during creation and execution. We explore how AI understands the materiality of body, space and time. Through carefully self-assembled datasets and an intuitive visual understanding of algorithms, we can avoid the bias inherent in large-scale models and take ownership of our own "small AI."
@@ -35,10 +36,10 @@ We presented an early version of the research during the Milieux Research Week a
 
 <br><br>
 
-
-
 ## Contributing Researchers
 
 - Frederik De Bleser
 - Lieven Menschaert
+- Cèlia Tort Pujol
+- Myrthe Bokelmann
 - Ine Vanoeveren
