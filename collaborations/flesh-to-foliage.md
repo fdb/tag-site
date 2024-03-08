@@ -27,8 +27,10 @@ images:
   - /static/media/flesh-to-foliage/18.jpg
   - /static/media/flesh-to-foliage/19.jpg
   - /static/media/flesh-to-foliage/20.jpg
+  - /static/media/flesh-to-foliage/figment-screenshot.png
 ---
-Cyber feminism is an artistic, theoretical and cultural movement that critically explores the intersections of technology, gender and identity. In ‘Flesh To Foliage — A Technological Requiem’, we explore the cyber feminist realm by creating nature-inspired body extensions. Female-looking bodies are blended with elements from nature, such as wilting plants and flowers. This creates a new view of the human body as a hybrid entity, a mix of organic and synthetic material. 
+
+Cyber feminism is an artistic, theoretical and cultural movement that critically explores the intersections of technology, gender and identity. In ‘Flesh To Foliage — A Technological Requiem’, we explore the cyber feminist realm by creating nature-inspired body extensions. Female-looking bodies are blended with elements from nature, such as wilting plants and flowers. This creates a new view of the human body as a hybrid entity, a mix of organic and synthetic material.
 
 In the performance, you will see a real dancer, Myrthe Bokelmann, dancing with an AI dancer. The AI dancer was trained on images of performers who were given "body extensions": natural elements such as flowers, branches, symbolising the transition between humans and nature. The AI generated body emphasises the virtuality of our bodies, but also points to the mortality and limitations of our physical selves. The tension between the eternity of the AI body and the inevitable decay of the human body is expressed through dance.
 
@@ -48,16 +50,20 @@ A powerful element is the contrast between the digital and the organic. From a c
 <br>
 
 ### Dancer
+
 - Myrthe Bokelmann
 
 ### AI Performers
+
 - Madina Mahomedova
 - Nika de La Loncha
 - Alexandra Fraser
 
 ### Music
+
 - Gizem Karaosmanoğlu
 
 ### AI Design
+
 - Frederik De Bleser
 - Lieven Menschaert
