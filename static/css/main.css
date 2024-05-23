@@ -53,8 +53,9 @@ body {
 
 .site-header {
   display: flex;
+  align-items: center;
   justify-content: space-between;
-  padding: 15px 20px;
+  padding: 10px 20px;
   background-color: white;
   color: #333;
   box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
@@ -157,6 +158,40 @@ body {
 
   .menu-toggle {
     display: none;
+  }
+}
+
+.site-header .raive-link {
+  position: absolute;
+  top: 60px;
+  left: 15px;
+  background-color: #dd3322;
+  color: white;
+  border-radius: 6px;
+  padding: 4px 4px;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 12px;
+  opacity: 1;
+}
+
+.site-header .raive-link:hover {
+  background-color: #7f2c26;
+}
+
+.site-header .raive-link.hide {
+  opacity: 0;
+}
+
+@media (min-width: 768px) {
+  .site-header .raive-link {
+    position: static;
+    font-size: 14px;
+    padding: 6px 8px;
+  }
+
+  .site-header .raive-link.hide {
+    opacity: 1;
   }
 }
 
@@ -267,6 +302,15 @@ section.intro {
 section.intro p:first-child {
   font: 1.8rem "Space Grotesk", sans-serif;
   color: #fff;
+}
+
+section.raive img {
+  border-radius: 6px;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+section.raive h1 {
+  margin-bottom: 0.5rem;
 }
 
 section.collaborations,

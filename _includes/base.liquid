@@ -25,6 +25,7 @@
       <span class="menu-toggle-line"></span>
       <span class="menu-toggle-line"></span>
     </button>
+    <a class="raive-link" href="https://raive.school" target="_blank">RAIVE AI Summer School — Sep 2-6 2024 — Apply Now</a>
     <nav>
       <a href="/about">About</a>
       <a href="/#projects">Projects</a>
@@ -58,6 +59,15 @@
   <script>
     document.getElementById('menu-toggle').addEventListener('click', function () {
       document.getElementById('site-header').classList.toggle('menu-visible');
+    });
+
+    window.addEventListener('scroll', function() {
+        const raiveLink = document.querySelector('.raive-link');
+        if (window.scrollY > 200) {
+            raiveLink.classList.add('hide');
+        } else {
+            raiveLink.classList.remove('hide');
+        }
     });
   </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/lightgallery.min.js"></script>
