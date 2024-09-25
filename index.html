@@ -2,119 +2,97 @@
 layout: home
 ---
 
-<header class="jumbo" style="background-image: url('/static/media/flesh-to-foliage/flesh-to-foliage-cover.jpg');">
-    <div class="jumbo-inner">
-        <div class="jumbo-titles">
-            <h1 class="jumbo-title">The Algorithmic Gaze</h1>
-            <div class="jumbo-subtitle">
-                What do computers see through the eye of AI?
-            </div>
-        </div>
-        <div class="jumbo-spacer"></div>
-
-        <div class="jumbo-spacer"></div>
-        <a class="jumbo-collab" href="/collaborations/flesh-to-foliage">
-            <h3 class="jumbo-collab-pre">Featured Collaboration</h3>
-            <p class="jumbo-collab-title">Flesh To Foliage</p>
-            <p class="jumbo-collab-subtitle">AI / Human Dance Performance</p>
-        </a>
+<header class="jumbo" style="background-image: url('/static/media/flesh-to-foliage/flesh-to-foliage-cover.jpg')">
+  <div class="jumbo-inner">
+    <div class="jumbo-titles">
+      <h1 class="jumbo-title">The Algorithmic Gaze</h1>
+      <div class="jumbo-subtitle">What do computers see through the eye of AI?</div>
     </div>
+    <div class="jumbo-spacer"></div>
+
+    <div class="jumbo-spacer"></div>
+    <a class="jumbo-collab" href="/collaborations/flesh-to-foliage">
+      <h3 class="jumbo-collab-pre">Featured Collaboration</h3>
+      <p class="jumbo-collab-title">Flesh To Foliage</p>
+      <p class="jumbo-collab-subtitle">AI / Human Dance Performance</p>
+    </a>
+  </div>
 </header>
 
-<section class="raive" id="raive">
-    <a href="https://raive.school" target="_self"><img src="/static/media/raive/raive-hero-image.png"
-            alt="Raive Summer School" /></a>
-    <div class="raive-text">
-        <h1>RAIVE AI Summer School — Final Presentation</h1>
-        <p>On <strong>6 September 2024</strong> we invite you to the final presentation of RAIVE! This will take place at 16.30 in De Gele Zaal of the Royal Conservatoire Antwerp. After one week of creating collaboratively and interdisciplinary, the participants of the summer school will present the work they have been developing together under the guidance of four coaches. Take your agendas and save the date! Free entrance.</p>
-        <p>Want to know more about RAIVE? You can find more info on <a href="https://raive.school">raive.school</a>.</p>
-</section>
-
 <section class="intro">
-    <p>
-        The Algorithmic Gaze is the research lab of <a href="https://www.sintlucasantwerpen.be/" target="_blank">Sint
-            Lucas
-            Antwerpen</a> exploring the impact of AI through interesting projects and democratizing the tools of
-        machine
-        learning.
-    </p>
-    <p>
-        Our mission is to bring AI into the artist's practice by developing open-source tools and methodologies
-        that make the domain more accessible and transparent. Our research asks how AI can become a trusted partner in
-        the
-        creative process, both during creation and execution. We explore how AI understands the materiality of body,
-        space
-        and time. Our approach avoids megalomanic datasets; instead we focus on carefully self-assembled datasets and an
-        intuitive visual understanding of algorithms to avoid the bias inherent in large-scale models and take ownership
-        of
-        our own "small AI."
-    </p>
-    <p><a href="/about">Read More</a></p>
+  <p>
+    The Algorithmic Gaze is the research lab of
+    <a href="https://www.sintlucasantwerpen.be/" target="_blank">Sint Lucas Antwerpen</a>
+    exploring the impact of AI through interesting projects and democratizing the tools of machine learning.
+  </p>
+  <p>
+    Our mission is to bring AI into the artist's practice by developing open-source tools and methodologies that make
+    the domain more accessible and transparent. Our research asks how AI can become a trusted partner in the creative
+    process, both during creation and execution. We explore how AI understands the materiality of body, space and time.
+    Our approach avoids megalomanic datasets; instead we focus on carefully self-assembled datasets and an intuitive
+    visual understanding of algorithms to avoid the bias inherent in large-scale models and take ownership of our own
+    "small AI."
+  </p>
+  <p><a href="/about">Read More</a></p>
 </section>
 
 <section class="projects" id="projects">
-    <h1>Projects</h1>
-    <p>We do research in the field of creative AI.</p>
-    <div class="figure-grid">
-        {% for project in collections.project %}
-        <a class="figure-link" href="{{ project.url }}">
-            <figure>
-                <img class="project-thumb" src="{{ project.data.thumb_image }}" alt="{{ project.data.title }}" />
-                <figcaption>
-                    <p class="title">{{ project.data.title }} ({{ project.data.period }})</p>
-                    <p class="subtitle">{{ project.data.subtitle }}</p>
-                </figcaption>
-            </figure>
-        </a>
-        {% endfor %}
-    </div>
+  <h1>Projects</h1>
+  <p>We do research in the field of creative AI.</p>
+  <div class="figure-grid">
+    {% for project in collections.project %}
+    <a class="figure-link" href="{{ project.url }}">
+      <figure>
+        <img class="project-thumb" src="{{ project.data.thumb_image }}" alt="{{ project.data.title }}" />
+        <figcaption>
+          <p class="title">{{ project.data.title }} ({{ project.data.period }})</p>
+          <p class="subtitle">{{ project.data.subtitle }}</p>
+        </figcaption>
+      </figure>
+    </a>
+    {% endfor %}
+  </div>
 </section>
 
 <section class="tools" id="tools">
-    <h1>Tools</h1>
-    <p>
-        We develop free software tools to simplify the process of training and
-        exploring machine learning models.
-    </p>
-    <div class="side-by-side">
-        <a class="figure-link" href="/tools/figment">
-            <figure>
-                <img src="/static/media/figment/figment-screenshot.png" alt="Screenshot of the Figment application" />
-                <figcaption>
-                    <p class="title">Figment</p>
-                    <p class="subtitle">
-                        Real-time image manipulation for machine learning
-                    </p>
-                </figcaption>
-            </figure>
-        </a>
-        <a class="figure-link" href="/tools/gandelve">
-            <figure>
-                <img src="/static/media/gandelve/gandelve-screenshot.png"
-                    alt="Screenshot of the GANDelve application" />
-                <figcaption>
-                    <p class="title">GANDelve</p>
-                    <p class="subtitle">Deep exploration of tailor-made GANs</p>
-                </figcaption>
-            </figure>
-        </a>
-    </div>
+  <h1>Tools</h1>
+  <p>We develop free software tools to simplify the process of training and exploring machine learning models.</p>
+  <div class="side-by-side">
+    <a class="figure-link" href="/tools/figment">
+      <figure>
+        <img src="/static/media/figment/figment-screenshot.png" alt="Screenshot of the Figment application" />
+        <figcaption>
+          <p class="title">Figment</p>
+          <p class="subtitle">Real-time image manipulation for machine learning</p>
+        </figcaption>
+      </figure>
+    </a>
+    <a class="figure-link" href="/tools/gandelve">
+      <figure>
+        <img src="/static/media/gandelve/gandelve-screenshot.png" alt="Screenshot of the GANDelve application" />
+        <figcaption>
+          <p class="title">GANDelve</p>
+          <p class="subtitle">Deep exploration of tailor-made GANs</p>
+        </figcaption>
+      </figure>
+    </a>
+  </div>
 </section>
 
 <section class="collaborations" id="collaborations">
-    <h1>Collaborations</h1>
-    <p>We help artists use our tools and methods to create new AI-based work.</p>
-    <div class="figure-grid">
-        {% for collab in collections.collaboration %}
-        <a class="figure-link" href="{{ collab.url }}">
-            <figure>
-                <img class="collab-thumb" src="{{ collab.data.thumb_image }}" alt="{{ collab.data.title }}" />
-                <figcaption>
-                    <p class="title">{{ collab.data.title }}</p>
-                    <p class="subtitle">{{ collab.data.subtitle }}</p>
-                </figcaption>
-            </figure>
-        </a>
-        {% endfor %}
-    </div>
+  <h1>Collaborations</h1>
+  <p>We help artists use our tools and methods to create new AI-based work.</p>
+  <div class="figure-grid">
+    {% for collab in collections.collaboration %}
+    <a class="figure-link" href="{{ collab.url }}">
+      <figure>
+        <img class="collab-thumb" src="{{ collab.data.thumb_image }}" alt="{{ collab.data.title }}" />
+        <figcaption>
+          <p class="title">{{ collab.data.title }}</p>
+          <p class="subtitle">{{ collab.data.subtitle }}</p>
+        </figcaption>
+      </figure>
+    </a>
+    {% endfor %}
+  </div>
 </section>
