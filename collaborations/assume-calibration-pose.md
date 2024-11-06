@@ -35,3 +35,5 @@ After its debut in Barcelona at the “Dimecres de so i cos” series and its An
 - **Musician:** Cèlia Tort Pujol
 - **Software Design:** Frederik De Bleser
 - **Hardware Design:** Lieven Menschaert
+- **Photos:** Madina Mahomedova, Frederik De Bleser
+- **Video:** Marc Cuscó
