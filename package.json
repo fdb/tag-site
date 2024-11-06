@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/fdb/tag-site#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0"
+    "@11ty/eleventy": "^3.0.0"
   }
 }
