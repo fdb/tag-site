@@ -330,9 +330,11 @@ section.tools {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  margin: 2rem 0;
 }
 
-.side-by-side video {
+.side-by-side video,
+.side-by-side img {
   max-width: 100%;
   flex: 1;
 }
@@ -344,8 +346,9 @@ section.tools {
     align-items: flex-end;
   }
 
-  .side-by-side video {
-    width: 50%;
+  .side-by-side video,
+  .side-by-side img {
+    width: calc(50% - 10px);
   }
 }
 
