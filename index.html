@@ -86,7 +86,7 @@ layout: home
   <h1>Collaborations</h1>
   <p>We help artists use our tools and methods to create new AI-based work.</p>
   <div class="figure-grid">
-    {% for collab in collections.collaboration %}
+    {% for collab in collections.collaboration reversed %}
     <a class="figure-link" href="{{ collab.url }}">
       <figure>
         <img class="collab-thumb" src="{{ collab.data.thumb_image }}" alt="{{ collab.data.title }}" />
