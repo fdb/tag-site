@@ -6,6 +6,7 @@ subtitle: An unstable alliance between bits and body
 thumb_image: /static/media/performative-ai/performative-ai-thumb.jpg
 main_image: /static/media/performative-ai/performative-ai-featured.jpg
 period: 2022 - 2024
+order: 2
 ---
 
 The applications of artificial intelligence are everywhere: just think of image recognition, recommendation algorithms, voice and face recognition algorithms, ... In the arts, AI also leads to interesting results, however often by using powerful hardware or existing datasets, and thus beyond the reach or control of most artists.
@@ -19,7 +20,7 @@ In the project we aim to capture the intricacies of a performance through motion
   <figcaption>Empty Mind. Kristof Timmerman, Ine Vanoeveren, Max Schweder, Wim Henderickx, et al</figcaption>
 </figure>
 
-We foster external collaborations with leading artists and researchers, such as with Martina Menegon, organising a research visit to develop "Memory of care: empathising with a virtual companion", using AI to track our empathy with virtual companions.
+We organize external collaborations with leading artists and researchers, such as with Martina Menegon, organising a research visit to develop "Memory of care: empathising with a virtual companion", using AI to track our empathy with virtual companions.
 
 <figure>
   <img src="/static/media/performative-ai/it-feels-like-home-martina-menegon.jpg" alt="It Feels Like Home. Martina Menegon">

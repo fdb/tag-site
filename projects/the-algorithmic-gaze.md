@@ -6,7 +6,9 @@ subtitle: Democratizing AI for artists and designers
 thumb_image: /static/media/the-algorithmic-gaze/the-algorithmic-gaze-thumb.jpg
 main_image: /static/media/the-algorithmic-gaze/the-algorithmic-gaze-featured.jpg
 period: 2019 - 2022
+order: 1
 ---
+
 The applications of artificial intelligence have permeated our society in recent years. Consider speech recognition, translation software, fraud detection, cancer cell detection, facial recognition and self-driving cars. Many of those applications teach the computer to look at the world.
 
 In this research project we want to explore the creative applications of AI by gaining insight into the artificial thinking process of the computer. How can we, by "deciphering" the algorithms, get a view of "The Algorithmic Gaze" - the image that the computer has of the world, and how does this view influence our own view of reality? Is it a method that can create a new kind of innovative images or styles? Can a computer algorithm guide a creative process? And how do we democratize this research by simplifying the complex procedures so that they become accessible to a broad group of non-technical designers and artists?
