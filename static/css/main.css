@@ -46,7 +46,9 @@ a {
 body {
   background-color: var(--main-color);
   color: white;
-  font: 1rem "Work Sans", sans-serif;
+  font:
+    1rem "Work Sans",
+    sans-serif;
 }
 
 /**** SITE HEADER ****/
@@ -58,7 +60,9 @@ body {
   padding: 10px 20px;
   background-color: white;
   color: #333;
-  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  box-shadow:
+    0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1);
   z-index: 10;
   width: 100vw;
   position: fixed;
@@ -67,7 +71,9 @@ body {
 
 .site-header .site-logo {
   text-decoration: none;
-  font: 1rem "Space Grotesk", sans-serif;
+  font:
+    1rem "Space Grotesk",
+    sans-serif;
 }
 
 .site-header nav {
@@ -221,12 +227,16 @@ body {
 }
 
 .jumbo-title {
-  font: 3rem "Space Grotesk", sans-serif;
+  font:
+    3rem "Space Grotesk",
+    sans-serif;
   margin-bottom: 0.2rem;
 }
 
 .jumbo-subtitle {
-  font: 1.1rem "Work Sans", sans-serif;
+  font:
+    1.1rem "Work Sans",
+    sans-serif;
 }
 
 .jumbo-intro {
@@ -265,11 +275,15 @@ body {
 .jumbo-collab-title {
   margin: 0 0 0.2rem 0;
   padding: 0;
-  font: 1rem "Space Grotesk", sans-serif;
+  font:
+    1rem "Space Grotesk",
+    sans-serif;
 }
 
 .jumbo-collab-subtitle {
-  font: 0.8rem "Space Grotesk", sans-serif;
+  font:
+    0.8rem "Space Grotesk",
+    sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -292,7 +306,9 @@ section {
 }
 
 section.intro {
-  font: 1.8rem "Work Sans", sans-serif;
+  font:
+    1.8rem "Work Sans",
+    sans-serif;
   font-style: oblique;
   max-width: 1200px;
   margin: 100px auto;
@@ -300,13 +316,17 @@ section.intro {
 }
 
 section.intro p:first-child {
-  font: 1.8rem "Space Grotesk", sans-serif;
+  font:
+    1.8rem "Space Grotesk",
+    sans-serif;
   color: #fff;
 }
 
 section.raive img {
   border-radius: 6px;
-  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  box-shadow:
+    0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
 
 section.raive h1 {
@@ -380,7 +400,9 @@ section.tools {
   width: 400px;
   height: 400px;
   border: 5px solid rgba(255, 255, 255, 0.1);
-  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  box-shadow:
+    0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
 
 section li {
@@ -410,7 +432,9 @@ figcaption {
 }
 
 figcaption .title {
-  font: 1rem "Space Grotesk", sans-serif;
+  font:
+    1rem "Space Grotesk",
+    sans-serif;
   margin: 0 0 6px 0;
   text-decoration: underline;
 }
@@ -443,7 +467,9 @@ figcaption .subtitle {
 }
 
 .meta-title {
-  font: 2rem "Space Grotesk", sans-serif;
+  font:
+    2rem "Space Grotesk",
+    sans-serif;
   font-weight: bold;
   margin: 0 0 6px 0;
 }
@@ -514,4 +540,161 @@ footer {
     justify-content: space-between;
     align-items: center;
   }
+}
+
+/**** MAILCHIMP SIGNUP FORM STYLES ****/
+
+#mc_embed_shell {
+  text-align: center;
+}
+#mc_embed_signup {
+  background-color: var(--main-color-dark); /* Darker background from your theme */
+  color: white; /* White text */
+  padding: 30px;
+  border-radius: 6px; /* Consistent with .raive-link */
+  box-shadow:
+    0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1); /* Consistent shadow */
+  width: 100%;
+  max-width: 600px; /* Or adjust as needed */
+  margin: 40px auto; /* Center the form if it's in a wider container */
+  font-family: "Work Sans", sans-serif; /* Default font for the form */
+  clear: both; /* Override Mailchimp's clear:left */
+  text-align: left;
+}
+
+/* Form heading */
+#mc_embed_signup h2 {
+  font-family: "Space Grotesk", sans-serif;
+  color: white;
+  font-size: 1.5rem; /* Adjust as needed */
+  font-weight: bold; /* Explicitly set bold, as h2 is reset to normal */
+  margin-bottom: 20px;
+  line-height: 1.3;
+}
+
+/* "Indicates required" text */
+#mc_embed_signup .indicates-required {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.9rem;
+  margin-bottom: 15px;
+  font-family: "Work Sans", sans-serif;
+}
+
+#mc_embed_signup .indicates-required .asterisk {
+  color: #dd3322; /* Accent color from .raive-link */
+  font-size: 1.2rem; /* Make asterisk slightly more prominent */
+  margin-right: 2px;
+}
+
+/* Field groups */
+#mc_embed_signup .mc-field-group {
+  margin-bottom: 20px;
+  clear: both; /* Ensure it clears any potential floats */
+  width: 100%;
+}
+
+/* Labels for input fields */
+#mc_embed_signup label {
+  color: white;
+  font-family: "Work Sans", sans-serif;
+  font-size: 1rem;
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+/* Email input field */
+#mc_embed_signup input.email,
+#mc_embed_signup input[type="email"] {
+  /* More specific to override MC defaults */
+  background-color: var(--main-color); /* Slightly lighter than form bg */
+  color: white;
+  border: 1px solid var(--main-color-light);
+  padding: 12px 15px;
+  border-radius: 4px;
+  width: 100%;
+  font-family: "Work Sans", sans-serif;
+  font-size: 1rem;
+  box-sizing: border-box; /* Ensure padding doesn't expand width */
+  height: auto; /* Override MC default height */
+  line-height: normal; /* Reset line-height for input */
+}
+
+#mc_embed_signup input.email::placeholder,
+#mc_embed_signup input[type="email"]::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+  opacity: 1; /* Ensure placeholder is visible */
+}
+
+#mc_embed_signup input.email:focus,
+#mc_embed_signup input[type="email"]:focus {
+  outline: none;
+  border-color: white;
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.3); /* Focus ring */
+}
+
+/* Submit button */
+#mc_embed_signup .button,
+#mc_embed_signup input[type="submit"] {
+  background-color: #dd3322; /* Accent color from .raive-link */
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 6px; /* Consistent with .raive-link */
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 1.1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%; /* Make button full-width */
+  height: auto; /* Override MC default height */
+  line-height: normal; /* Reset line-height for button */
+  text-transform: none; /* Override MC default text-transform:uppercase */
+}
+
+#mc_embed_signup .button:hover,
+#mc_embed_signup input[type="submit"]:hover {
+  background-color: #b0281a; /* Darker shade of the accent color */
+}
+
+/* Response messages (success/error) */
+#mc_embed_signup #mce-responses {
+  margin-top: 20px;
+  margin-bottom: 0; /* Remove bottom margin if it's the last element */
+  padding: 0;
+}
+
+#mc_embed_signup .response {
+  padding: 12px 15px;
+  border-radius: 4px;
+  margin: 0 0 15px 0;
+  font-family: "Work Sans", sans-serif;
+  font-size: 0.9rem;
+}
+
+#mc_embed_signup #mce-error-response {
+  background-color: rgba(221, 51, 34, 0.2); /* Lighter red, more subtle */
+  color: #dd3322; /* Red text for errors */
+  border: 1px solid #dd3322;
+}
+
+#mc_embed_signup #mce-success-response {
+  background-color: rgba(71, 66, 94, 0.3); /* Using main-color-light with alpha */
+  color: white;
+  border: 1px solid var(--main-color-light);
+}
+
+/* Hide Mailchimp's "rewards" link if it appears */
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+  background-color: rgba(221, 51, 34, 0.2) !important;
+  color: #dd3322 !important;
+  margin-bottom: 10px !important;
+  padding: 8px !important;
+  font-weight: normal !important;
+}
+
+/* Ensure the div that sometimes holds Mailchimp branding is not displayed */
+#mc_embed_signup div#mce-responses + div[style*="text-align:center"] {
+  display: none !important;
 }
