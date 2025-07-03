@@ -6,7 +6,8 @@
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve",
-    "dev": "eleventy --serve"
+    "dev": "eleventy --serve",
+    "format": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/fdb/tag-site#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "prettier": "^3.6.2"
   }
 }

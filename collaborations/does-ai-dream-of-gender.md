@@ -15,7 +15,8 @@ images:
   - /static/media/does-ai-dream-of-gender/exhibition-4.jpg
   - /static/media/does-ai-dream-of-gender/grid.jpg
 ---
-‘Does AI Dream of Gender?’ is an interactive audio-visual installation that explores the topic of gender performativity in digital space. Created using image-to-image translation AI algorithms, this project is a visual research and study of how AI understands the idea of gender, based simply on open-source photo databases taken from the internet. 
+
+‘Does AI Dream of Gender?’ is an interactive audio-visual installation that explores the topic of gender performativity in digital space. Created using image-to-image translation AI algorithms, this project is a visual research and study of how AI understands the idea of gender, based simply on open-source photo databases taken from the internet.
 
 <br>
 <br>
@@ -30,6 +31,6 @@ The main inspirations behind this project are ideas of post- and trans- humanism
 <br>
 <br>
 
-Created by Madina Mahomedova as part of her BA graduation project for the PJATK (Warsaw, Poland) New Media Art department, in collaboration with the researchers from The Aglorithmic Gaze. Madina is an artist from Lviv, Ukraine.  In her work, she focuses on ideas of gender performativity & gender fluidity in digital spaces. At present, Madina is based in Brussels, Belgium. 
+Created by Madina Mahomedova as part of her BA graduation project for the PJATK (Warsaw, Poland) New Media Art department, in collaboration with the researchers from The Aglorithmic Gaze. Madina is an artist from Lviv, Ukraine. In her work, she focuses on ideas of gender performativity & gender fluidity in digital spaces. At present, Madina is based in Brussels, Belgium.
 
 Created under the conceptual supervision of Mgr. Klaudiusz Ślusarczyk and technical supervision of teacher & researcher Frederik De Bleser. Presented in Antwerp in July '22 and at the [WRO Media Art Biennale](https://wro2023.wrocenter.pl/en/works/does-ai-dream-of-gender/) in Wrocław, Poland in May '23.

@@ -56,7 +56,6 @@ The installation runs both a live webcam feed and a pre-recorded video. If it ca
 
 <img src="/static/media/memories-of-care/memories-of-care-cover.jpeg" alt="Different apparations of the AI avatar">
 
-
 ## Credits
 
 "Memories of Care" was initiated by [Martina Menegon](https://martinamenegon.xyz/). Machine Learning setup and training by Frederik De Bleser and Lieven Menschaert.

@@ -46,7 +46,9 @@ a {
 body {
   background-color: var(--main-color);
   color: white;
-  font: 1rem "Work Sans", sans-serif;
+  font:
+    1rem "Work Sans",
+    sans-serif;
 }
 
 /**** SITE HEADER ****/
@@ -58,7 +60,9 @@ body {
   padding: 10px 20px;
   background-color: white;
   color: #333;
-  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  box-shadow:
+    0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1);
   z-index: 10;
   width: 100vw;
   position: fixed;
@@ -67,7 +71,9 @@ body {
 
 .site-header .site-logo {
   text-decoration: none;
-  font: 1rem "Space Grotesk", sans-serif;
+  font:
+    1rem "Space Grotesk",
+    sans-serif;
 }
 
 .site-header nav {
@@ -221,12 +227,16 @@ body {
 }
 
 .jumbo-title {
-  font: 3rem "Space Grotesk", sans-serif;
+  font:
+    3rem "Space Grotesk",
+    sans-serif;
   margin-bottom: 0.2rem;
 }
 
 .jumbo-subtitle {
-  font: 1.1rem "Work Sans", sans-serif;
+  font:
+    1.1rem "Work Sans",
+    sans-serif;
 }
 
 .jumbo-intro {
@@ -265,11 +275,15 @@ body {
 .jumbo-collab-title {
   margin: 0 0 0.2rem 0;
   padding: 0;
-  font: 1rem "Space Grotesk", sans-serif;
+  font:
+    1rem "Space Grotesk",
+    sans-serif;
 }
 
 .jumbo-collab-subtitle {
-  font: 0.8rem "Space Grotesk", sans-serif;
+  font:
+    0.8rem "Space Grotesk",
+    sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -313,7 +327,9 @@ section {
 }
 
 section.intro {
-  font: 1.8rem "Work Sans", sans-serif;
+  font:
+    1.8rem "Work Sans",
+    sans-serif;
   font-style: oblique;
   max-width: 1200px;
   margin: 100px auto;
@@ -321,13 +337,17 @@ section.intro {
 }
 
 section.intro p:first-child {
-  font: 1.8rem "Space Grotesk", sans-serif;
+  font:
+    1.8rem "Space Grotesk",
+    sans-serif;
   color: #fff;
 }
 
 section.raive img {
   border-radius: 6px;
-  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  box-shadow:
+    0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
 
 section.raive h1 {
@@ -401,7 +421,9 @@ section.tools {
   width: 400px;
   height: 400px;
   border: 5px solid rgba(255, 255, 255, 0.1);
-  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  box-shadow:
+    0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1);
 }
 
 section li {
@@ -431,7 +453,9 @@ figcaption {
 }
 
 figcaption .title {
-  font: 1rem "Space Grotesk", sans-serif;
+  font:
+    1rem "Space Grotesk",
+    sans-serif;
   margin: 0 0 6px 0;
   text-decoration: underline;
 }
@@ -482,7 +506,9 @@ figcaption .subtitle {
 }
 
 .meta-title {
-  font: 2rem "Space Grotesk", sans-serif;
+  font:
+    2rem "Space Grotesk",
+    sans-serif;
   font-weight: bold;
   margin: 0 0 6px 0;
 }
@@ -565,7 +591,9 @@ footer {
   color: white; /* White text */
   padding: 30px;
   border-radius: 6px; /* Consistent with .raive-link */
-  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1); /* Consistent shadow */
+  box-shadow:
+    0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1); /* Consistent shadow */
   width: 100%;
   max-width: 600px; /* Or adjust as needed */
   margin: 40px auto; /* Center the form if it's in a wider container */
