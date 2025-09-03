@@ -39,96 +39,114 @@ layout: home
   <p><a href="/about">Read More</a></p>
 </section>
 
-<section class="projects" id="projects">
-  <h1>Projects</h1>
-  <p>We do research in the field of creative AI.</p>
-  <div class="figure-grid">
-    {% for project in collections.sortedProjects %}
-    <a class="figure-link" href="{{ project.url }}">
-      <figure>
-        <img class="project-thumb" src="{{ project.data.thumb_image }}" alt="{{ project.data.title }}" />
-        <figcaption>
-          <p class="title">{{ project.data.title }} ({{ project.data.period }})</p>
-          <p class="subtitle">{{ project.data.subtitle }}</p>
-        </figcaption>
-      </figure>
-    </a>
-    {% endfor %}
-  </div>
-</section>
+<section class="raive">
+  <section class="raive" id="raive">
+    <a href="https://raive.school" target="_self"
+      ><img src="/static/media/raive/raive-hero-image.jpg" alt="Raive Summer School"
+    /></a>
+    <div class="raive-text">
+      <h1>RAIVE AI Summer School — Final Presentation</h1>
+      <p>
+        On <strong>Saturday 6 September 2025</strong> we invite you to the final presentation of RAIVE! This will take
+        place at 16.30 in De Gele Zaal of the Royal Conservatoire Antwerp. After one week of creating collaboratively
+        and interdisciplinary, the participants of the summer school will present the work they have been developing
+        together under the guidance of four coaches. Take your agendas and save the date! Free entrance.
+      </p>
+      <p>Want to know more about RAIVE? You can find more info on <a href="https://raive.school">raive.school</a>.</p>
+    </div>
+  </section>
 
-<section class="tools" id="tools">
-  <h1>Tools</h1>
-  <p>We develop free software tools to simplify the process of training and exploring machine learning models.</p>
-  <div class="side-by-side">
-    <a class="figure-link" href="/tools/figment">
-      <figure>
-        <img src="/static/media/figment/figment-screenshot.png" alt="Screenshot of the Figment application" />
-        <figcaption>
-          <p class="title">Figment</p>
-          <p class="subtitle">Real-time image manipulation for machine learning</p>
-        </figcaption>
-      </figure>
-    </a>
-    <a class="figure-link" href="/tools/gandelve">
-      <figure>
-        <img src="/static/media/gandelve/gandelve-screenshot.png" alt="Screenshot of the GANDelve application" />
-        <figcaption>
-          <p class="title">GANDelve</p>
-          <p class="subtitle">Deep exploration of tailor-made GANs</p>
-        </figcaption>
-      </figure>
-    </a>
-  </div>
-</section>
+  <section class="projects" id="projects">
+    <h1>Projects</h1>
+    <p>We do research in the field of creative AI.</p>
+    <div class="figure-grid">
+      {% for project in collections.sortedProjects %}
+      <a class="figure-link" href="{{ project.url }}">
+        <figure>
+          <img class="project-thumb" src="{{ project.data.thumb_image }}" alt="{{ project.data.title }}" />
+          <figcaption>
+            <p class="title">{{ project.data.title }} ({{ project.data.period }})</p>
+            <p class="subtitle">{{ project.data.subtitle }}</p>
+          </figcaption>
+        </figure>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
 
-<section class="collaborations" id="collaborations">
-  <h1>Collaborations</h1>
-  <p>We help artists use our tools and methods to create new AI-based work.</p>
-  <div class="figure-grid">
-    {% for collab in collections.collaboration reversed %}
-    <a class="figure-link" href="{{ collab.url }}">
-      <figure>
-        <img class="collab-thumb" src="{{ collab.data.thumb_image }}" alt="{{ collab.data.title }}" />
-        <figcaption>
-          <p class="title">{{ collab.data.title }}</p>
-          <p class="subtitle">{{ collab.data.subtitle }}</p>
-        </figcaption>
-      </figure>
-    </a>
-    {% endfor %}
-  </div>
-</section>
+  <section class="tools" id="tools">
+    <h1>Tools</h1>
+    <p>We develop free software tools to simplify the process of training and exploring machine learning models.</p>
+    <div class="side-by-side">
+      <a class="figure-link" href="/tools/figment">
+        <figure>
+          <img src="/static/media/figment/figment-screenshot.png" alt="Screenshot of the Figment application" />
+          <figcaption>
+            <p class="title">Figment</p>
+            <p class="subtitle">Real-time image manipulation for machine learning</p>
+          </figcaption>
+        </figure>
+      </a>
+      <a class="figure-link" href="/tools/gandelve">
+        <figure>
+          <img src="/static/media/gandelve/gandelve-screenshot.png" alt="Screenshot of the GANDelve application" />
+          <figcaption>
+            <p class="title">GANDelve</p>
+            <p class="subtitle">Deep exploration of tailor-made GANs</p>
+          </figcaption>
+        </figure>
+      </a>
+    </div>
+  </section>
 
-<section id="newsletter-signup">
-  <div id="mc_embed_signup">
-    <h2>Subscribe to our newsletter ✨</h2>
-    <form
-      action="https://kdg.us11.list-manage.com/subscribe/post?u=f2f4dfed688882b52d74c63fb&amp;id=811d41b0b2&amp;f_id=0064e6e0f0"
-      method="post"
-      id="mc-embedded-subscribe-form"
-      name="mc-embedded-subscribe-form"
-      class="validate"
-      target="_self"
-      novalidate=""
-    >
-      <div id="mc_embed_signup_scroll">
-        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-        <div class="mc-field-group">
-          <label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label
-          ><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="" />
+  <section class="collaborations" id="collaborations">
+    <h1>Collaborations</h1>
+    <p>We help artists use our tools and methods to create new AI-based work.</p>
+    <div class="figure-grid">
+      {% for collab in collections.collaboration reversed %}
+      <a class="figure-link" href="{{ collab.url }}">
+        <figure>
+          <img class="collab-thumb" src="{{ collab.data.thumb_image }}" alt="{{ collab.data.title }}" />
+          <figcaption>
+            <p class="title">{{ collab.data.title }}</p>
+            <p class="subtitle">{{ collab.data.subtitle }}</p>
+          </figcaption>
+        </figure>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section id="newsletter-signup">
+    <div id="mc_embed_signup">
+      <h2>Subscribe to our newsletter ✨</h2>
+      <form
+        action="https://kdg.us11.list-manage.com/subscribe/post?u=f2f4dfed688882b52d74c63fb&amp;id=811d41b0b2&amp;f_id=0064e6e0f0"
+        method="post"
+        id="mc-embedded-subscribe-form"
+        name="mc-embedded-subscribe-form"
+        class="validate"
+        target="_self"
+        novalidate=""
+      >
+        <div id="mc_embed_signup_scroll">
+          <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+          <div class="mc-field-group">
+            <label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label
+            ><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="" />
+          </div>
+          <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display: none"></div>
+            <div class="response" id="mce-success-response" style="display: none"></div>
+          </div>
+          <div style="position: absolute; left: -5000px" aria-hidden="true">
+            <input type="text" name="b_f2f4dfed688882b52d74c63fb_811d41b0b2" tabindex="-1" value="" />
+          </div>
+          <div class="clear">
+            <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe" />
+          </div>
         </div>
-        <div id="mce-responses" class="clear">
-          <div class="response" id="mce-error-response" style="display: none"></div>
-          <div class="response" id="mce-success-response" style="display: none"></div>
-        </div>
-        <div style="position: absolute; left: -5000px" aria-hidden="true">
-          <input type="text" name="b_f2f4dfed688882b52d74c63fb_811d41b0b2" tabindex="-1" value="" />
-        </div>
-        <div class="clear">
-          <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe" />
-        </div>
-      </div>
-    </form>
-  </div>
+      </form>
+    </div>
+  </section>
 </section>
