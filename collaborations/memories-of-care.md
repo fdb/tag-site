@@ -56,6 +56,18 @@ The installation runs both a live webcam feed and a pre-recorded video. If it ca
 
 <img src="/static/media/memories-of-care/memories-of-care-cover.jpeg" alt="Different apparations of the AI avatar">
 
+## Exhibitions
+
+- 2023, group exhibition: “Becoming-Machine“, Artsect DAO Gallery, London and online (part of The Wrong - New Digital Art Biennale)
+- 2023, solo exhibition: “I’m sorry I made you feel that way”, Discotec, Vienna
+- 2024, solo exhibition: "you know me so well”, Galeria 17, Pristina
+- 2024, group exhibition: title t.b.c., Artemis Gallery, Lisbon
+
+<figure>
+  <img src="/static/media/memories-of-care/photo-exhibition-vienna.jpeg" alt="Photo of exhibition in Vienna. Image by Tina Kult.">
+  <figcaption>Image by Tina Kult.</figcaption>
+</figure>
+
 ## Credits
 
 "Memories of Care" was initiated by [Martina Menegon](https://martinamenegon.xyz/). Machine Learning setup and training by Frederik De Bleser and Lieven Menschaert.
