@@ -62,6 +62,7 @@ The installation runs both a live webcam feed and a pre-recorded video. If it ca
 - 2023, solo exhibition: “I’m sorry I made you feel that way”, Discotec, Vienna
 - 2024, solo exhibition: "you know me so well”, Galeria 17, Pristina
 - 2024, group exhibition: title t.b.c., Artemis Gallery, Lisbon
+- 2025, group exhibition, “I’m sorry I made you feel that way”, Gray Area Festival, San Francisco
 
 <figure>
   <img src="/static/media/memories-of-care/photo-exhibition-vienna.jpeg" alt="Photo of exhibition in Vienna. Image by Tina Kult.">
