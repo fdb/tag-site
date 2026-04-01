@@ -11,7 +11,7 @@ images:
   - /static/media/whirly-loops/whirly-loops-07.jpg
 ---
 
-*Whirly Loops* is a project by the research group The Algorithmic Gaze of Sint Lucas Antwerpen, exploring the intersection between movement, sound and technology. For this installation we were inspired by *Bow Echo* by Aziz Hazara, where five young boys climb a mountain and play the kazoo in strong winds. In dialogue with this work, we designed five "whirly tubes" controlled by motors that respond to visitors' movements, creating an evolving sonic experience. The generated wind answers back to Hazara's *Bow Echo*.
+*Whirly Loops* is an interactive installation built by the research group The Algorithmic Gaze of Sint Lucas Antwerpen. For this installation we were inspired by [Bow Echo by Aziz Hazara](https://smak.be/en/exhibitions/aziz-hazara-bow-echo), where five young boys climb a mountain and play the kazoo in strong winds. In dialogue with this work, we designed five "whirly tubes" controlled by motors that respond to visitors' movements, creating an evolving sonic experience. The generated wind answers back to Hazara's *Bow Echo*.
 
 ## How it works
 
