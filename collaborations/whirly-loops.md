@@ -33,6 +33,8 @@ The conductor decides what happens: in its default mode, motors spin up based on
 
 The whole system is tied together with MQTT, a lightweight messaging protocol. Each Arduino publishes and listens on simple topics. The conductor subscribes to all of them, runs the logic, and publishes motor commands back. A small web dashboard lets us monitor everything in real time — sensor readings, motor speeds, scene transitions and visitor activity.
 
+<video loop autoplay muted playsinline src="/static/media/whirly-loops/shiftr-dashboard.mp4" width="100%"></video>
+
 <img src="/static/media/whirly-loops/whirly-conductor.png" alt="The Whirly Conductor web dashboard showing motor speeds, sensor readings and scene transitions">
 
 
