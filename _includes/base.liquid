@@ -37,12 +37,38 @@
   <meta property="og:title" content="{{ page_title | escape }}">
   <meta property="og:description" content="{{ meta_description | escape }}">
   <meta property="og:image" content="{{ meta_image }}">
+  <meta property="og:image:alt" content="{{ page_title | escape }}">
   <meta property="og:url" content="{{ canonical_url }}">
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ page_title | escape }}">
   <meta name="twitter:description" content="{{ meta_description | escape }}">
   <meta name="twitter:image" content="{{ meta_image }}">
+  <meta name="twitter:image:alt" content="{{ page_title | escape }}">
+
+  {%- if og_type == "article" -%}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": {{ page_title | json }},
+    "description": {{ meta_description | json }},
+    "url": {{ canonical_url | json }},
+    "image": {{ meta_image | json }}{% if credits %},
+    "creator": {{ credits | json }}{% endif %},
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": {{ site.title | json }},
+      "url": {{ site.url | json }}
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Sint Lucas Antwerpen",
+      "url": "https://www.sintlucasantwerpen.be/"
+    }
+  }
+  </script>
+  {%- endif -%}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
