@@ -2,8 +2,8 @@
 layout: collaboration
 tags: ["collaboration"]
 title: Whirly Loops
-subtitle: Whirly tubes, custom built hardware, microcontrollers, software
-description: Five whirly tubes hang from the ceiling at S.M.A.K. Ghent, spinning in response to visitors — an interactive sonic installation in dialogue with Aziz Hazara's Bow Echo.
+subtitle: Interactive sonic installation at SMAK
+description: Interactive sonic installation built for the ceiling at the SMAK in Ghent, in dialogue with Aziz Hazara's Bow Echo.
 credits: Lieven Menschaert, Frederik De Bleser, Cèlia Tort Pujol
 thumb_image: /static/media/whirly-loops/whirly-loops-thumb.jpg
 main_image: /static/media/whirly-loops/whirly-loops-cover.jpg

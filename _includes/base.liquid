@@ -12,6 +12,12 @@
     {%- assign full_title = site.title -%}
   {%- endif -%}
 
+  {%- if title and subtitle -%}
+    {%- assign social_title = title | append: " — " | append: subtitle -%}
+  {%- else -%}
+    {%- assign social_title = page_title -%}
+  {%- endif -%}
+
   {%- assign meta_description = description | default: subtitle | default: site.description -%}
 
   {%- assign meta_image_path = main_image | default: thumb_image | default: site.defaultImage -%}
@@ -34,14 +40,14 @@
 
   <meta property="og:site_name" content="{{ site.title | escape }}">
   <meta property="og:type" content="{{ og_type }}">
-  <meta property="og:title" content="{{ page_title | escape }}">
+  <meta property="og:title" content="{{ social_title | escape }}">
   <meta property="og:description" content="{{ meta_description | escape }}">
   <meta property="og:image" content="{{ meta_image }}">
   <meta property="og:image:alt" content="{{ page_title | escape }}">
   <meta property="og:url" content="{{ canonical_url }}">
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page_title | escape }}">
+  <meta name="twitter:title" content="{{ social_title | escape }}">
   <meta name="twitter:description" content="{{ meta_description | escape }}">
   <meta name="twitter:image" content="{{ meta_image }}">
   <meta name="twitter:image:alt" content="{{ page_title | escape }}">
@@ -51,7 +57,8 @@
   {
     "@context": "https://schema.org",
     "@type": "CreativeWork",
-    "name": {{ page_title | json }},
+    "name": {{ page_title | json }},{% if subtitle %}
+    "alternativeHeadline": {{ subtitle | json }},{% endif %}
     "description": {{ meta_description | json }},
     "url": {{ canonical_url | json }},
     "image": {{ meta_image | json }}{% if credits %},
