@@ -56,15 +56,16 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "CreativeWork",
-    "name": {{ page_title | json }},{% if subtitle %}
+    "@type": "Article",
+    "headline": {{ page_title | json }},{% if subtitle %}
     "alternativeHeadline": {{ subtitle | json }},{% endif %}
     "description": {{ meta_description | json }},
     "url": {{ canonical_url | json }},
-    "image": {{ meta_image | json }}{% if credits %},
-    "creator": {{ credits | json }}{% endif %},
-    "isPartOf": {
-      "@type": "WebSite",
+    "image": {{ meta_image | json }},
+    "datePublished": "{{ page.date | date: '%Y-%m-%d' }}",
+    "dateModified": "{{ page.date | date: '%Y-%m-%d' }}",
+    "author": {
+      "@type": "Organization",
       "name": {{ site.title | json }},
       "url": {{ site.url | json }}
     },
@@ -72,7 +73,16 @@
       "@type": "Organization",
       "name": "Sint Lucas Antwerpen",
       "url": "https://www.sintlucasantwerpen.be/"
-    }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": {{ canonical_url | json }}
+    }{% if credits %},
+    "about": {
+      "@type": "CreativeWork",
+      "name": {{ page_title | json }},
+      "creator": {{ credits | json }}
+    }{% endif %}
   }
   </script>
   {%- endif -%}
