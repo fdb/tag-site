@@ -3,6 +3,7 @@ layout: project
 tags: ["project"]
 title: Performative AI
 subtitle: An unstable alliance between bits and body
+description: Performative AI (2022–2024) brings AI into the artist's creative process — exploring how machines perceive the materiality of body, space and time through live performance.
 thumb_image: /static/media/performative-ai/performative-ai-thumb.jpg
 main_image: /static/media/performative-ai/performative-ai-featured.jpg
 period: 2022 - 2024

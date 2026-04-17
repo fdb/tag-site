@@ -3,6 +3,7 @@ layout: collaboration
 tags: ["collaboration", "figment"]
 title: Workshops
 subtitle: Teaching our tools to students
+description: Intensive machine-learning workshops using Figment — teaching art students at Sint Lucas Antwerpen, LUCA and Concordia Montreal to work with pose detection, collage and style transfer.
 credits: Frederik De Bleser, Lieven Menschaert
 thumb_image: /static/media/workshops/workshops-thumb.png
 main_image: /static/media/workshops/workshops-cover.jpg

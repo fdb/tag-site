@@ -3,6 +3,7 @@ layout: project
 tags: ["project"]
 title: The Algorithmic Gaze
 subtitle: Democratizing AI for artists and designers
+description: The Algorithmic Gaze (2019–2022) decoded how computers see, developing GANDelve and Figment so non-experts could train and explore machine-learning models of their own.
 thumb_image: /static/media/the-algorithmic-gaze/the-algorithmic-gaze-thumb.jpg
 main_image: /static/media/the-algorithmic-gaze/the-algorithmic-gaze-featured.jpg
 period: 2019 - 2022

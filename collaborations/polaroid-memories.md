@@ -3,6 +3,7 @@ layout: collaboration
 tags: ["collaboration", "gandelve"]
 title: Polaroid Memories
 subtitle: Re-discovering found footage through GANDelve
+description: Iren Loontjens trained a GANDelve model on found footage of incorrectly developed Polaroids, presenting the work as a collection of images and a movie of the training process.
 credits: Iren Loontjens
 thumb_image: /static/media/polaroid-memories/polaroid-memories-thumb.jpg
 main_image: /static/media/polaroid-memories/polaroid-memories.jpg

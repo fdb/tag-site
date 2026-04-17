@@ -1,5 +1,7 @@
 ---
 layout: page
+title: About
+description: Our mission is to bring AI into the artist's practice through open-source tools and self-assembled datasets, exploring how AI understands body, space and time.
 ---
 
 # The Algorithmic Gaze

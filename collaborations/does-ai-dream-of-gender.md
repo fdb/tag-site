@@ -3,6 +3,7 @@ layout: collaboration
 tags: ["collaboration", "figment"]
 title: Does AI Dream of Gender?
 subtitle: Gender Fluid AI Installation
+description: An interactive audio-visual installation by Madina Mahomedova exploring gender performativity in digital space, built with image-to-image AI trained on open-source photo databases.
 credits: Madina Mahomedova, Frederik De Bleser
 thumb_image: /static/media/does-ai-dream-of-gender/does-ai-dream-of-gender-thumb.jpg
 main_image: /static/media/does-ai-dream-of-gender/does-ai-dream-of-gender-cover.jpg

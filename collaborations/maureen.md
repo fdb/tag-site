@@ -3,6 +3,7 @@ layout: collaboration
 tags: ["collaboration", "figment"]
 title: Maureen
 subtitle: A critical mirror on AI in our society
+description: A real-time AI face trained with PIX2PIX and conversationally shaped through GPT-2 — a curated, morally-void character used by Alexandra Fraser as a mirror on identity and ethics.
 credits: Alexandra Fraser, Frederik De Bleser
 thumb_image: /static/media/maureen/maureen-thumb.jpeg
 main_image: /static/media/maureen/maureen-cover.jpeg

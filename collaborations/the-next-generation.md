@@ -3,6 +3,7 @@ layout: collaboration
 tags: ["collaboration", "figment"]
 title: The Next Generation
 subtitle: A collage of the faces of tomorrow
+description: Elementary school children were filmed, interviewed and synthesised into new faces through pix2pixHD — presented at the 2022 academic opening in Stadsschouwburg Antwerpen.
 credits: Frederik De Bleser, Lieven Menschaert
 thumb_image: /static/media/next-generation/next-generation-thumb.jpg
 main_image: /static/media/next-generation/next-generation-featured.jpg

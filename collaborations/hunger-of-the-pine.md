@@ -3,6 +3,7 @@ layout: collaboration
 tags: ["collaboration", "figment"]
 title: Hunger of the Pine
 subtitle: AI artwork around natural sustainability
+description: A PIX2PIX work with photographer Kristof Vrancken on the dying coniferous forests of Limburg, using the bark-beetle's signature as a generator for new tree structures.
 credits: Kristof Vrancken, Lieven Menschaert
 thumb_image: /static/media/hunger-of-the-pine/hunger-of-the-pine-thumb.jpeg
 main_image: /static/media/hunger-of-the-pine/hunger-of-the-pine-cover.jpeg

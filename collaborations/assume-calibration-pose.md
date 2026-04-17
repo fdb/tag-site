@@ -3,6 +3,7 @@ layout: collaboration
 tags: ["collaboration", "performance", "AI"]
 title: "Assume calibration pose: this breath isn’t mine"
 subtitle: A Haptic Feedback Exploration
+description: A haptic-feedback performance where a dancer's motion-captured movements are translated into vibrations felt by an oboist, creating a shared language of body and sound.
 credits: Cèlia Tort Pujol, Myrthe Bokelmann, Frederik De Bleser, Lieven Menschaert
 thumb_image: /static/media/assume-calibration-pose/assume-calibration-pose-thumb.jpg
 main_image: /static/media/assume-calibration-pose/assume-calibration-pose-cover.jpg
