@@ -2,8 +2,8 @@
 layout: collaboration
 tags: ["collaboration", "figment"]
 title: Flesh to Foliage
-subtitle: A Technological Requiem
-description: A cyberfeminist dance performance where a real dancer shares the stage with an AI trained on bodies blended with wilting plants — a meditation on decay, eternity and hybrid identity.
+subtitle: Cyberfeminist AI dance performance
+description: Cyberfeminist performance where Myrthe Bokelmann dances with an AI trained on bodies blended with wilting plants, premiered at the 2023 Academic Opening.
 credits: Myrthe Bokelmann, Madina Mahomedova, Nika de La Loncha, Alexandra Fraser, Gizem Karaosmanoğlu, Frederik De Bleser, Lieven Menschaert
 thumb_image: /static/media/flesh-to-foliage/flesh-to-foliage-thumb.jpg
 main_image: /static/media/flesh-to-foliage/flesh-to-foliage-cover.jpg

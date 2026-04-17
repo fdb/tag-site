@@ -2,8 +2,8 @@
 layout: collaboration
 tags: ["collaboration", "gandelve"]
 title: 100 Days
-subtitle: Destroying and reconstructing memories
-description: Syrian designer Joud Toamah drew from memory for 100 days, then used GANDelve to reconstruct her deliberately destroyed images — a meditation on remembrance and forgetting.
+subtitle: AI-reconstructed memory drawings by Joud Toamah
+description: Joud Toamah drew from memory for 100 days, destroyed the images, then trained GANDelve models to reconstruct them in five short films.
 credits: Joud Toamah
 thumb_image: /static/media/100-days/100-days-thumb.jpg
 main_image: /static/media/100-days/100-days-1.jpg

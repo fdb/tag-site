@@ -2,8 +2,8 @@
 layout: collaboration
 tags: ["collaboration", "figment"]
 title: Hunger of the Pine
-subtitle: AI artwork around natural sustainability
-description: A PIX2PIX work with photographer Kristof Vrancken on the dying coniferous forests of Limburg, using the bark-beetle's signature as a generator for new tree structures.
+subtitle: AI artwork for The Sustainist Gaze at Z33
+description: pix2pix collaboration with photographer Kristof Vrancken on Limburg's dying pine forests, shown in The Sustainist Gaze at Z33, Hasselt in 2021.
 credits: Kristof Vrancken, Lieven Menschaert
 thumb_image: /static/media/hunger-of-the-pine/hunger-of-the-pine-thumb.jpeg
 main_image: /static/media/hunger-of-the-pine/hunger-of-the-pine-cover.jpeg

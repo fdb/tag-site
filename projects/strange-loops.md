@@ -2,8 +2,8 @@
 layout: project
 tags: ["project"]
 title: Strange Loops
-subtitle: Performative explorations with trustworthy AI
-description: Strange Loops (2025–2027) develops human-scale, trustworthy AI for performative work — rapid-iteration systems that engage artists in real-time dialogue with machines.
+subtitle: Research project on trustworthy AI in performance (2025–2027)
+description: Research project developing human-scale, trustworthy AI systems for performance, enabling real-time dialogue between artists and machines.
 thumb_image: /static/media/strange-loops/strange-loops-thumb.jpg
 main_image: /static/media/strange-loops/strange-loops-featured.jpg
 period: 2025 - 2027

@@ -2,8 +2,8 @@
 layout: collaboration
 tags: ["collaboration", "figment"]
 title: Cyber Sensuality
-subtitle: Training an AI Dancer through PIX2PIX
-description: An AI dancer trained with PIX2PIX on gendered bodies, producing a gender-fluid avatar that improvises movement and interrogates how eroticism itself is gendered.
+subtitle: AI dancer trained at LAbO 2021
+description: AI dancer trained with pix2pix on gendered bodies, developed during the ChampdAction LAbO 2021 summer school at deSingel, Antwerp.
 credits: Nikola Scheibe, Alexandra Fraser, Madina Mahomedova, Mazarine Haarscheer and David Bello Arcos
 thumb_image: /static/media/cyber-sensuality/cyber-sensuality-thumb.jpg
 main_image: /static/media/cyber-sensuality/cyber-sensuality-featured.jpg

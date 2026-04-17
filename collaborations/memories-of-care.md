@@ -2,8 +2,8 @@
 layout: collaboration
 tags: ["collaboration", "figment"]
 title: Memories of Care
-subtitle: Martina Menegon research visit July 4-6 2023
-description: Martina Menegon's interactive self-portrait in which her Oura ring biometrics drive an AI avatar — when she is tired or stressed, her digital body degrades in response.
+subtitle: Biometric AI self-portrait by Martina Menegon
+description: Martina Menegon's AI self-portrait driven by Oura ring biometrics, shown at The Wrong Biennale and in Vienna, Pristina and San Francisco.
 credits: Martina Menegon, Frederik De Bleser, Lieven Menschaert
 thumb_image: /static/media/memories-of-care/memories-of-care-thumb.jpeg
 main_image: /static/media/memories-of-care/memories-of-care-cover.jpeg
