@@ -31,6 +31,10 @@ Each tube is driven by its own motor, controlled by an Arduino microcontroller. 
 
 The conductor decides what happens: in its default mode, motors spin up based on visitor movement. When nobody is around, the installation begins playing a generative composition on its own: a slow, organic score where each tube follows its own gentle curve, like five voices singing in delicate harmonies. When a new visitor arrives, the score fades and the tubes return to listening.
 
+<img src="/static/media/whirly-loops/whirly-score.png" alt="The score engine dashboard showing a density envelope of five overlapping curves driving the five motors">
+
+The score engine drives this. A *density envelope* shapes five overlapping voices that rise and fall across the piece, each curve mapped to one motor's RPM — so the generative composition you hear is literally drawn as a set of breathing lines.
+
 <div class="side-by-side">
   <img src="/static/media/whirly-loops/whirly-loops-03.jpg" alt="Close-up of the corrugated tubes">
   <img src="/static/media/whirly-loops/whirly-loops-05.jpg" alt="SMAK ladder">
@@ -41,6 +45,10 @@ The whole system is tied together with MQTT, a lightweight messaging protocol. E
 <video loop autoplay muted playsinline src="/static/media/whirly-loops/shiftr-dashboard.mp4" width="100%"></video>
 
 <img src="/static/media/whirly-loops/whirly-conductor.png" alt="The Whirly Conductor web dashboard showing motor speeds, sensor readings and scene transitions">
+
+Over time, the activity view reveals the rhythm of the room: warm bands where visitors gathered close and the motors spun fast, quiet stretches where the installation was left to play its own score.
+
+<img src="/static/media/whirly-loops/whirly-log.png" alt="Activity timeline coloured by sensor proximity and motor speed across two weeks, showing when visitors were present and the motors were running">
 
 
 ## Exhibition
