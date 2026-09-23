@@ -12,3 +12,9 @@ When adding images to collaboration posts, resize to these dimensions:
 - **Screenshots:** 1920px wide
 
 Images go in `/static/media/{slug}/` with naming pattern `{slug}-cover.jpg`, `{slug}-thumb.jpg`, `{slug}-01.jpg` etc.
+
+## Workflow
+
+- Verify: `npm run build` (no tests or lint).
+- Branch policy: commit directly to `main`; base branch is `main`.
+- Deploy: a push to `main` deploys to production via Netlify (`netlify.toml`). Check https://algorithmicgaze.com/ afterwards.
