@@ -33,7 +33,7 @@ The goal of this research is to make **artistic creation via artificial intellig
 
 <img src="/static/media/about/frederik-de-bleser.jpg" alt="Head shot of Frederik De Bleser" class="pull-right">
 
-Dr. Frederik De Bleser (º1978) is a researcher and lecturer at Sint Lucas Antwerp. His research focuses on the connection between art and technology and the development of free software tools for artificial intelligence and data visualization. He is co-founder of the Experimental Media Research Group (EMRG). He coordinates the master in digital media at Sint Lucas, and works as a freelance data visualisation artist, creating projects for Belgian news and online democracy platforms.
+Dr. Frederik De Bleser (º1978) is a researcher and lecturer at Sint Lucas Antwerp, where he coordinates the master in digital media. With the research group The Algorithmic Gaze, he develops open-source tools such as Figment that let artists train and control their own small AI models, and organises the RAIVE summer school on art and AI. He co-founded the Experimental Media Research Group (EMRG) and works as a freelance data visualisation artist for Belgian news and online democracy platforms.
 
 [frederik.debleser@kdg.be](mailto:frederik.debleser@kdg.be)<br/>
 [enigmeta.com](https://www.enigmeta.com/)
