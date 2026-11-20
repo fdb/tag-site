@@ -70,4 +70,4 @@ Because each visitor decides when to step into an alcove, and therefore when the
 - **Hardware research & design:** Lieven Menschaert
 - **Software & plate design:** Frederik De Bleser
 - **Sonic development:** Cèlia Tort Pujol
-- **Movement research & sonic development:** Myrthe Bokelmann
+- **Sonic development:** Myrthe Bokelmann
