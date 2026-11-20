@@ -43,7 +43,7 @@ In the final setup, all the sensing is tucked into the plywood wall behind the p
 
 Because metal plates colour sound very differently from loudspeakers, we built a custom browser-based patcher so we could compose directly in the room, standing between the hanging sheets and listening as we tweaked each voice.
 
-<img src="/static/media/stranger-loops/stranger-loops-patcher.jpg" alt="The Strange(r) Loops patcher in the browser, with boxes and cords driving the four panels">
+<img src="/static/media/stranger-loops/stranger-loops-patcher.png" alt="The Strange(r) Loops patcher in the browser, with boxes and cords driving the four panels">
 
 The composition we made for the exhibition responds to how long you linger. As you step between two panels, the piece begins with a set of low vibrations that gradually grow in strength and density. Stay a little longer and the pulses sharpen into rhythmic stabs, which slowly gather into chords and, eventually, a small melody.
 
